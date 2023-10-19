@@ -55,7 +55,7 @@ parser.add_argument(
 parser.add_argument(
     "--log-file",
     type=str,
-    default="~/matter-logs.log",
+    default="matter-logs.log",
     help="Log file to write to (optional).",
 )
 
