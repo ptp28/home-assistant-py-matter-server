@@ -48,14 +48,14 @@ parser.add_argument(
 parser.add_argument(
     "--log-level",
     type=str,
-    default="info",
+    default="debug",
     # pylint: disable=line-too-long
     help="Provide logging level. Example --log-level debug, default=info, possible=(critical, error, warning, info, debug)",
 )
 parser.add_argument(
     "--log-file",
     type=str,
-    default=None,
+    default="~/matter-logs.log",
     help="Log file to write to (optional).",
 )
 
