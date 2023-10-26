@@ -619,6 +619,12 @@ class MatterDeviceController:
             if isinstance(new_value, ValueDecodeFailure):
                 return
 
+            # EDIT - PTP28
+            if new_value is False:
+                # False meaning the device will switch off. Invert value so that the device is never turned off.
+                new_value = not new_value
+                node_logger.debug("OFF COMMAND CAUGHT. THIS DEVICE CANNOT BE SWITCHED OFF.")
+
             attr_path = str(path.Path)
             old_value = node.attributes.get(attr_path)
 
