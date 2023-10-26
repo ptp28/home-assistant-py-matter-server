@@ -1,2 +1,19 @@
-Docker Build
+Docker build
 docker build -f Dockerfile.dev -t matter-server-mod:v1.0 .
+
+Docker run
+docker run  -v /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket
+            -v /run/dbus:/run/dbus
+            -v /opt/matter-server:/data
+            -it matter-server-mod:v1.0
+
+
+docker run \
+      --name matter-server \
+      --restart unless-stopped \
+      --network host \
+      --security-opt apparmor:unconfined \
+      -v /opt/matter-server:/data/ \
+      -v /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket \
+      -v /run/dbus:/run/dbus:ro \
+      -it matter-server-mod:v1.0
