@@ -635,7 +635,7 @@ class MatterDeviceController:
                 path,
                 old_value,
                 new_value,
-                (new_value-old_value)
+                (int(new_value) - int(old_value))
             )
 
             # work out added/removed endpoints on bridges
