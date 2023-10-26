@@ -1,9 +1,10 @@
-# DOCKER COMMANDS #
-
-## DOCKER BUILD ##
+#build image
 docker build -f Dockerfile.dev -t matter-server-mod:v1.0 .
 
-## DOCKER RUN ##
+#remove old container with same name
+docker rm matter-server-mod
+
+#run container in detached mode
 docker run -d \
       --name matter-server-mod \
       --restart unless-stopped \
