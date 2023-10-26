@@ -622,11 +622,13 @@ class MatterDeviceController:
             attr_path = str(path.Path)
             old_value = node.attributes.get(attr_path)
 
+            # EDIT - PTP28
             node_logger.debug(
-                "Attribute updated: %s - old value: %s - new value: %s",
+                "Attribute updated: %s - old value: %s - new value: %s - diff: %s",
                 path,
                 old_value,
                 new_value,
+                (new_value-old_value)
             )
 
             # work out added/removed endpoints on bridges

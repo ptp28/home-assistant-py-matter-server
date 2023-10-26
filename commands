@@ -1,4 +1,7 @@
-Docker build
+Docker build commands
+
+
+
 docker build -f Dockerfile.dev -t matter-server-mod:v1.0 .
 
 Docker run
