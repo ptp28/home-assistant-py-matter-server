@@ -1,6 +1,9 @@
 #build image
 docker build -f Dockerfile.dev -t matter-server-mod:v1.0 .
 
+#stop docker container
+docker stop matter-server-mod
+
 #remove old container with same name
 docker rm matter-server-mod
 
