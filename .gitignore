@@ -168,3 +168,4 @@ venv39/
 
 # ruff
 .ruff_cache/
+local_*

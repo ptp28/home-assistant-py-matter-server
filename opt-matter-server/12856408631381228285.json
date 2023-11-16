@@ -1,0 +1,4168 @@
+{
+  "vendor_info": {
+    "4107": {
+      "vendor_id": 4107,
+      "vendor_name": "Signify",
+      "company_legal_name": "Signify Netherlands B.V.",
+      "company_preferred_name": "Signify",
+      "vendor_landing_page_url": "https://www.signify.com/",
+      "creator": "cosmos1xx8fg5nu4lesn448ytds8yjql47jp8gnfh6hck"
+    },
+    "4125": {
+      "vendor_id": 4125,
+      "vendor_name": "Assa Abloy",
+      "company_legal_name": "Assa Abloy",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "http://www.yalehome.com",
+      "creator": "cosmos18wrgwrrccn49ejv4hstz9czxgw9dc2s2l9f94k"
+    },
+    "4129": {
+      "vendor_id": 4129,
+      "vendor_name": "Legrand Group",
+      "company_legal_name": "Legrand",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.legrand.com",
+      "creator": "cosmos1elm6sf9yd2n7y0l0rve4zru0ukanv76vtrjnt3"
+    },
+    "4151": {
+      "vendor_id": 4151,
+      "vendor_name": "NXP Semiconductors",
+      "company_legal_name": "NXP Semiconductors N.V.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.nxp.com",
+      "creator": "cosmos1ck0arz4kky9l9qtdvqrct7783ffv2yftgmj9ch"
+    },
+    "4190": {
+      "vendor_id": 4190,
+      "vendor_name": "Schneider",
+      "company_legal_name": "Schneider Electric",
+      "company_preferred_name": "Schneider Electric",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14kre58wpgterp7t9yy0393ecel9hpz9fnul6pc"
+    },
+    "4251": {
+      "vendor_id": 4251,
+      "vendor_name": "Leviton",
+      "company_legal_name": "Leviton Manufacturing Company",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.leviton.com",
+      "creator": "cosmos1ypyp8zrqeu64rjmx3u34ghvl64uajr67uams3d"
+    },
+    "4304": {
+      "vendor_id": 4304,
+      "vendor_name": "Qorvo",
+      "company_legal_name": "Qorvo, Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.qorvo.com/",
+      "creator": "cosmos1qrpkuzgm7hfejejfyg20g34tjxlt4k8dsspq52"
+    },
+    "4334": {
+      "vendor_id": 4334,
+      "vendor_name": "UEI",
+      "company_legal_name": "Universal Electronics Inc",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.uei.com/",
+      "creator": "cosmos1pvrad6x6ettwgudttqd97r9wvarvnj5davpltg"
+    },
+    "4338": {
+      "vendor_id": 4338,
+      "vendor_name": "ubisys",
+      "company_legal_name": "ubisys technologies GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.ubisys.de",
+      "creator": "cosmos1rxydw26p5k4f9rtwln6r3srvw4qq9pxnxadr3d"
+    },
+    "4362": {
+      "vendor_id": 4362,
+      "vendor_name": "Samsung SmartThings",
+      "company_legal_name": "Samsung SmartThings",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1e292xaqdy8qgfufycjv2tkup5eegyyvwgfrvkf"
+    },
+    "4381": {
+      "vendor_id": 4381,
+      "vendor_name": "Comcast Communications",
+      "company_legal_name": "Comcast",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1xcv4q8sjvf7nw4qj2yt5kledgwyf3ycxw8c0pe"
+    },
+    "4442": {
+      "vendor_id": 4442,
+      "vendor_name": "Nanoleaf",
+      "company_legal_name": "Nanoleaf Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://nanoleaf.me",
+      "creator": "cosmos1sggrrmw05e6alve8umwdaszade5qxyt53kthud"
+    },
+    "4447": {
+      "vendor_id": 4447,
+      "vendor_name": "Aqara",
+      "company_legal_name": "Lumi United Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.aqara.com/",
+      "creator": "cosmos1qpz3ghnqj6my7gzegkftzav9hpxymkx6zdk73v"
+    },
+    "4448": {
+      "vendor_id": 4448,
+      "vendor_name": "Sengled",
+      "company_legal_name": "Sengled Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1arhkv0n34xylxz9suy73dpyk6de32gpym9l3sw"
+    },
+    "4454": {
+      "vendor_id": 4454,
+      "vendor_name": "Innr",
+      "company_legal_name": "Innr Lighting B.V.",
+      "company_preferred_name": "Innr",
+      "vendor_landing_page_url": "https://www.innr.com",
+      "creator": "cosmos1yfesa8ned026v5qjpvxqgszduuqf2p8urlcwdr"
+    },
+    "4456": {
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson",
+      "company_legal_name": "Leedarson IoT Technology Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1mzg0v94yg0cmkjqe2jqsys44tvvfk9mt2d889d"
+    },
+    "4478": {
+      "vendor_id": 4478,
+      "vendor_name": "Feibit",
+      "company_legal_name": "Shenzhen Feibit Electronic Technology Co.,Ltd",
+      "company_preferred_name": "Feibit",
+      "vendor_landing_page_url": "http://www.feibit.com",
+      "creator": "cosmos162y3ehrqpuu2xjvmgq6qq7yqtdh6mlwh32wv2h"
+    },
+    "4488": {
+      "vendor_id": 4488,
+      "vendor_name": "TP-Link",
+      "company_legal_name": "TP-Link Corporation Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.tp-link.com",
+      "creator": "cosmos1jxpj6rr8vnetz9a2ec08az5fwqpuf4zt4hhygv"
+    },
+    "4489": {
+      "vendor_id": 4489,
+      "vendor_name": "LEDVANCE",
+      "company_legal_name": "Ledvance GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14f7agdec0hxlkvtr2q2f3wa0ggxehy4qej99fs"
+    },
+    "4492": {
+      "vendor_id": 4492,
+      "vendor_name": "Midea Group",
+      "company_legal_name": "Midea Group",
+      "company_preferred_name": "Midea",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1a7c8us8jl76f8uue6xf9gzzqklfmfdyh8nedae"
+    },
+    "4617": {
+      "vendor_id": 4617,
+      "vendor_name": "Bosch",
+      "company_legal_name": "Robert Bosch GmbH",
+      "company_preferred_name": "Bosch",
+      "vendor_landing_page_url": "https://www.bosch.com",
+      "creator": "cosmos1lugc5ushxpnwkmgd6xjstqw9d52hccn4t36rvf"
+    },
+    "4619": {
+      "vendor_id": 4619,
+      "vendor_name": "HEIMAN",
+      "company_legal_name": "Shenzhen Heiman Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos16s4lqhxyqdr5lq6gmfpskjtwjf7dwc0lktn6dt"
+    },
+    "4631": {
+      "vendor_id": 4631,
+      "vendor_name": "Amazon Alexa",
+      "company_legal_name": "Amazon.com, Inc.",
+      "company_preferred_name": "Amazon Alexa",
+      "vendor_landing_page_url": "https://www.amazon.com",
+      "creator": "cosmos152v4ejapsjl222zew0ll4eeltc0h2phh5hzpu3"
+    },
+    "4633": {
+      "vendor_id": 4633,
+      "vendor_name": "ORVIBO",
+      "company_legal_name": "Shenzhen ORVIBO Technology Co.,  Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.orvibo.com",
+      "creator": "cosmos1u7um30yf68zugm897tgpq7s6vhkhk4t2ykm0hq"
+    },
+    "4701": {
+      "vendor_id": 4701,
+      "vendor_name": "Tuya",
+      "company_legal_name": "Tuya Global Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos13pwvzq2zk0r3fxuc2a5jhadnx6tda5ar2tcpp9"
+    },
+    "4718": {
+      "vendor_id": 4718,
+      "vendor_name": "Xiaomi",
+      "company_legal_name": "Xiaomi Communications Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://iot.mi.com",
+      "creator": "cosmos1vl4gd4ptkngnnyggklj9wn4a5f6qkqwpmhjm0c"
+    },
+    "4735": {
+      "vendor_id": 4735,
+      "vendor_name": "Nordic Semiconductor ASA",
+      "company_legal_name": "Nordic Semiconductor ASA",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.nordicsemi.com",
+      "creator": "cosmos1eatgwsxtjz0tlchllzasjfcac6m56n30njc3k2"
+    },
+    "4736": {
+      "vendor_id": 4736,
+      "vendor_name": "Siterwell",
+      "company_legal_name": "Siterwell Electronics Co., Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1u3uhlkepx9dz9asrlucuupw2md2frvkwv583nr"
+    },
+    "4742": {
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit",
+      "company_legal_name": "SHENZHEN Coolkit Technology CO.,LTD.",
+      "company_preferred_name": "CoolKit",
+      "vendor_landing_page_url": "https://www.coolkit.cn/",
+      "creator": "cosmos18m8lehnvqx8zytn22fkekelt7xgmrl7cga37tl"
+    },
+    "4751": {
+      "vendor_id": 4751,
+      "vendor_name": "EGLO",
+      "company_legal_name": "EGLO Leuchten GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.eglo.com/en/",
+      "creator": "cosmos1veu2f7mtgvfw8ezjfmhs64cqyt9wp2weas2rga"
+    },
+    "4874": {
+      "vendor_id": 4874,
+      "vendor_name": "Eve",
+      "company_legal_name": "Eve Systems GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.evehome.com",
+      "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+    },
+    "4876": {
+      "vendor_id": 4876,
+      "vendor_name": "EVVR",
+      "company_legal_name": "EVVR ApS",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://evvr.io",
+      "creator": "cosmos1n85ws0jfqxue2qa3u034qydl0hdnmddunq8s0d"
+    },
+    "4877": {
+      "vendor_id": 4877,
+      "vendor_name": "BouffaloLab",
+      "company_legal_name": "Bouffalo Lab (Nanjing) Co., Ltd.",
+      "company_preferred_name": "Bouffalo Lab ",
+      "vendor_landing_page_url": "https://www.bouffalolab.com/",
+      "creator": "cosmos1l8qwcjgfcnvlmtxrlcjrsmy9068mlck2cw68kx"
+    },
+    "4882": {
+      "vendor_id": 4882,
+      "vendor_name": "Yeelight",
+      "company_legal_name": "Qingdao Yeelink Information Technology Co., Ltd.",
+      "company_preferred_name": "Yeelink Information Technology",
+      "vendor_landing_page_url": "https://en.yeelight.com/#",
+      "creator": "cosmos18fcq3647dkwur0d0zjyenj8sk57jehq4a8epaf"
+    },
+    "4891": {
+      "vendor_id": 4891,
+      "vendor_name": "Espressif Systems",
+      "company_legal_name": "Espressif Systems (Shanghai) Co. Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.espressif.com",
+      "creator": "cosmos1vncrg6hk30kutk4nr26mvyqc92zkygcc7aemzt"
+    },
+    "4894": {
+      "vendor_id": 4894,
+      "vendor_name": "CAME S.p.A.",
+      "company_legal_name": "CAME S.p.A.",
+      "company_preferred_name": "CAME S.p.A.",
+      "vendor_landing_page_url": "https://www.came.com/",
+      "creator": "cosmos1kxjh94dcvnym6265nmxcjpn9xpkx0y7e3jjeqc"
+    },
+    "4895": {
+      "vendor_id": 4895,
+      "vendor_name": "Longan.link",
+      "company_legal_name": "Longan Link Tech Co.,LTD",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://longan.link/",
+      "creator": "cosmos1qnd2v3n0f0ukja8z0jm4jqsqs5qhxa6ncvcxuv"
+    },
+    "4897": {
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF",
+      "company_legal_name": "Shenzhen Sonoff Technologies Co.,Ltd.",
+      "company_preferred_name": "SONOFF",
+      "vendor_landing_page_url": "https://sonoff.tech/",
+      "creator": "cosmos160c6r8rc2pgpgucasw4ae5gfqtz5vzcc6ay2sz"
+    },
+    "4910": {
+      "vendor_id": 4910,
+      "vendor_name": "Yankon",
+      "company_legal_name": "Xiamen Yankon Energetic Lighting Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1enly8nj2sc9jlcqh5636zr2awen57mu0anjfmj"
+    },
+    "4915": {
+      "vendor_id": 4915,
+      "vendor_name": "Becker Antriebe",
+      "company_legal_name": "Becker Antriebe GmbH",
+      "company_preferred_name": "Becker Antriebe",
+      "vendor_landing_page_url": "https://www.becker-antriebe.com/",
+      "creator": "cosmos1f6knru06kkxm306ckgs93zs9aqyrk9axgqh5wq"
+    },
+    "4921": {
+      "vendor_id": 4921,
+      "vendor_name": "GE Lighting, a Savant company",
+      "company_legal_name": "GE Lighting, a Savant company",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.gelighting.com/",
+      "creator": "cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc"
+    },
+    "4927": {
+      "vendor_id": 4927,
+      "vendor_name": "ASR",
+      "company_legal_name": "ASR Microelectronics(ShenZhen)Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14a9n65wmumympggqnquu5ptq042ff69nehztk7"
+    },
+    "4930": {
+      "vendor_id": 4930,
+      "vendor_name": "Beken Corporation",
+      "company_legal_name": "beken",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "http://www.bekencorp.com/",
+      "creator": "cosmos1aru484uj9dqkpnqg768tl6m66fvz9wkqcg79cw"
+    },
+    "4932": {
+      "vendor_id": 4932,
+      "vendor_name": "Eltako",
+      "company_legal_name": "Eltako GmbH",
+      "company_preferred_name": "Eltako",
+      "vendor_landing_page_url": "https://www.eltako.com",
+      "creator": "cosmos1n3kqdwqh33grxcnzdeknercyt3wekc5zl4n3dg"
+    },
+    "4933": {
+      "vendor_id": 4933,
+      "vendor_name": "Meross",
+      "company_legal_name": "Chengdu Meross Technology Co., Ltd.",
+      "company_preferred_name": "Meross",
+      "vendor_landing_page_url": "https://www.meross.com",
+      "creator": "cosmos18qu47pmqwylzm9w2tezyrmvcwmkew5yyvw3d6n"
+    },
+    "4934": {
+      "vendor_id": 4934,
+      "vendor_name": "Rafael",
+      "company_legal_name": "Rafael Microelectronics, Inc.",
+      "company_preferred_name": "Rafael",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14myns7fehcxm2c896k5syhzr7zsyf7g4jdlk08"
+    },
+    "4937": {
+      "vendor_id": 4937,
+      "vendor_name": "Apple Home",
+      "company_legal_name": "Apple Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.apple.com/home-app",
+      "creator": "cosmos1ysl37yl5nmcg8qr64knpscahq5zel3hjtxmvyt"
+    },
+    "4942": {
+      "vendor_id": 4942,
+      "vendor_name": "tado",
+      "company_legal_name": "tado GmbH",
+      "company_preferred_name": "tado°",
+      "vendor_landing_page_url": "https://www.tado.com/",
+      "creator": "cosmos1sacvh2z4w0f3d657a2tdw2w4ha87743c8qahkv"
+    },
+    "4943": {
+      "vendor_id": 4943,
+      "vendor_name": "mediola",
+      "company_legal_name": "mediola - connected living AG",
+      "company_preferred_name": "mediola",
+      "vendor_landing_page_url": "https://www.mediola.com",
+      "creator": "cosmos1j2w2zq787mkwltsdhzlxpnm50s8nrvg85u20dh"
+    },
+    "4945": {
+      "vendor_id": 4945,
+      "vendor_name": "HooRii Technology",
+      "company_legal_name": "HooRii Technology CO., LTD",
+      "company_preferred_name": "HooRii Technology",
+      "vendor_landing_page_url": "https://www.hoorii.io/",
+      "creator": "cosmos1etk35ufz9z4x56t63tap7ncsvk5k5zw2npmlcu"
+    },
+    "4954": {
+      "vendor_id": 4954,
+      "vendor_name": "Siegenia Aubi KG",
+      "company_legal_name": "SIEGENIA-AUBI KG",
+      "company_preferred_name": "SIEGENIA",
+      "vendor_landing_page_url": "https://www.siegenia.com",
+      "creator": "cosmos19uy3kac2ndayacvfvrpfd349hd2p70wdnewwxh"
+    },
+    "4957": {
+      "vendor_id": 4957,
+      "vendor_name": "Nuki",
+      "company_legal_name": "Nuki Home Solutions GmbH",
+      "company_preferred_name": "Nuki",
+      "vendor_landing_page_url": "https://nuki.io",
+      "creator": "cosmos1tdslga3va6luqzy2x3nlwxfh80f99vly5800ls"
+    },
+    "4962": {
+      "vendor_id": 4962,
+      "vendor_name": "deveritec GmbH",
+      "company_legal_name": "deveritec GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://deveritec.de",
+      "creator": "cosmos19740ad8368h0h33rcu6gugtxgvyuws7puqg0za"
+    },
+    "4965": {
+      "vendor_id": 4965,
+      "vendor_name": "Dooya",
+      "company_legal_name": "Ningbo Dooya Mechanic & Electronic Technology Co.,Ltd",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1pqypa94grwkmk2d7e0ncdctfav5wyycu787tmk"
+    },
+    "4972": {
+      "vendor_id": 4972,
+      "vendor_name": "Onewish",
+      "company_legal_name": "Kee Tat Manufactory Holdings Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1ft8k38eu76l76v0xhnk33cqknn648qtwww428s"
+    },
+    "4974": {
+      "vendor_id": 4974,
+      "vendor_name": "Ambi Labs Limited",
+      "company_legal_name": "Ambi Labs Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos12st2nx5elvkyswv7nqw6xh6j67vg472lcv0299"
+    },
+    "4977": {
+      "vendor_id": 4977,
+      "vendor_name": "Tridonic",
+      "company_legal_name": "Tridonic GmbH & Co KG",
+      "company_preferred_name": "Tridonic",
+      "vendor_landing_page_url": "https://www.tridonic.com/matter",
+      "creator": "cosmos16ad3em3nrqzf854p03audmgdl3pc384467yzav"
+    },
+    "4978": {
+      "vendor_id": 4978,
+      "vendor_name": "innovation matters",
+      "company_legal_name": "innovation matters iot GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.innovation-matters.at/",
+      "creator": "cosmos1v6x4nte50al0jjynvldwqse9n4ceajmja3wvph"
+    },
+    "4991": {
+      "vendor_id": 4991,
+      "vendor_name": "NEO",
+      "company_legal_name": "Shenzhen NEO Electronic CO",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos18cvsug5mc7vj9a6kxaj0fwp99vj9ga3xd3lnql"
+    },
+    "4993": {
+      "vendor_id": 4993,
+      "vendor_name": "Amazon Prime Video",
+      "company_legal_name": "Amazon.com, Inc.",
+      "company_preferred_name": "Amazon Prime Video",
+      "vendor_landing_page_url": "https://www.amazon.com",
+      "creator": "cosmos1akrkaxvlfwnnk2phtxewadmel4s567wr8xmfj8"
+    },
+    "4996": {
+      "vendor_id": 4996,
+      "vendor_name": "Apple Keychain",
+      "company_legal_name": "Apple Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://support.apple.com/en-us/HT213441",
+      "creator": "cosmos1qqgp6p73z0lku4qzeajgtxtzy24xx467j0v0kp"
+    },
+    "4998": {
+      "vendor_id": 4998,
+      "vendor_name": "Skylux",
+      "company_legal_name": "Skylux N.V.",
+      "company_preferred_name": "Skylux",
+      "vendor_landing_page_url": "https://www.skylux.eu",
+      "creator": "cosmos1f9haxa732cy6rmm3nc88q9fxx9zv0m0qn3kzcm"
+    },
+    "4999": {
+      "vendor_id": 4999,
+      "vendor_name": "Govee",
+      "company_legal_name": "Shenzhen Qianyan Technology LTD",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos15qlrdtlxgkdwjy0u72elamlgu3cjffjc6rvf4e"
+    },
+    "5002": {
+      "vendor_id": 5002,
+      "vendor_name": "Nature",
+      "company_legal_name": "Nature Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://nature.global/",
+      "creator": "cosmos1yvwf85sx9mp53kptfwfz49cmmznvj2j0efavzu"
+    },
+    "5004": {
+      "vendor_id": 5004,
+      "vendor_name": "Hisense",
+      "company_legal_name": "Hisense Group Co. Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1nzh05g5d92cmtcmgq60nquy4awud254p2y06l8"
+    },
+    "5009": {
+      "vendor_id": 5009,
+      "vendor_name": "Kasa",
+      "company_legal_name": "TP-Link Corporation Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.kasasmart.com",
+      "creator": "cosmos1fjwwzm8zs9yc2hq73tqggdylcmm0ujmuc7x9wn"
+    },
+    "5010": {
+      "vendor_id": 5010,
+      "vendor_name": "Tapo",
+      "company_legal_name": "TP-Link Corporation Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.tapo.com",
+      "creator": "cosmos1acw4mmmf26e7jkxqm5epu7g56tcgz0walk3vs8"
+    },
+    "5015": {
+      "vendor_id": 5015,
+      "vendor_name": "SwitchBot",
+      "company_legal_name": "Woan Technology (Shenzhen) Co., Ltd. ",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1dc9patujyr2av2ezggudfalfag7p7scc0t3wnk"
+    },
+    "5020": {
+      "vendor_id": 5020,
+      "vendor_name": "Zemismart Technology Limited",
+      "company_legal_name": "Zemismart Technology Limited",
+      "company_preferred_name": "Zemismart",
+      "vendor_landing_page_url": "https://www.zemismart.com",
+      "creator": "cosmos1mrv5zh6r6kcfln34vju5kfup4mv9lw27u33yj0"
+    },
+    "5120": {
+      "vendor_id": 5120,
+      "vendor_name": "Uascent",
+      "company_legal_name": "Uascent Technology Company Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1ynw4zl6xqnvh5zhzhhpxjc6kt8z8wvxkp8edsw"
+    },
+    "5123": {
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia",
+      "company_legal_name": "Arlec Australia Pty. Ltd.",
+      "company_preferred_name": "Grid Connect",
+      "vendor_landing_page_url": "https://grid-connect.com.au/",
+      "creator": "cosmos1d9ut0ysdlw68r0705q8tagf7y9cf3d686fpf73"
+    },
+    "5124": {
+      "vendor_id": 5124,
+      "vendor_name": "Phaten",
+      "company_legal_name": "Shenzhen Phaten Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.phaten.com",
+      "creator": "cosmos1h4rf0hjzf498s2lu0rf8m52ujst2gl7lpdnexs"
+    },
+    "5127": {
+      "vendor_id": 5127,
+      "vendor_name": "ThirdReality",
+      "company_legal_name": "Jiangsu Shushi Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1qwnh6tj4n938g3fmncqna22zmfxx50vnd22yux"
+    },
+    "5131": {
+      "vendor_id": 5131,
+      "vendor_name": "70mai Co., Ltd.",
+      "company_legal_name": "70mai Co., Ltd.",
+      "company_preferred_name": "70mai",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos16eywj3z0k6jaxnuycky4k7u2m8wt7qy9wclxv4"
+    },
+    "5136": {
+      "vendor_id": 5136,
+      "vendor_name": "Quectel",
+      "company_legal_name": "Quectel Wireless Solutions Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.quectel.com",
+      "creator": "cosmos1dqrg6w2jjs7sft59dpqngjzyfdjh4xjn5rjct5"
+    },
+    "5139": {
+      "vendor_id": 5139,
+      "vendor_name": "1Home",
+      "company_legal_name": "1Home Solutions GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.1home.io/",
+      "creator": "cosmos1nzyp28afpumk0djal2w35s2pcl0q3e57euplkq"
+    },
+    "5141": {
+      "vendor_id": 5141,
+      "vendor_name": "Caveman",
+      "company_legal_name": "Nanoleaf Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1smgmnl90h9srczk926l5kt7rydjpq7x0smc5e7"
+    },
+    "5142": {
+      "vendor_id": 5142,
+      "vendor_name": "Umbra",
+      "company_legal_name": "Nanoleaf Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1eldeezdpcrcz2z034dku25j42cj69sshhl0ufm"
+    },
+    "5144": {
+      "vendor_id": 5144,
+      "vendor_name": "Klite",
+      "company_legal_name": "Zhejiang Klite Lighting Holdings Co.,Ltd.",
+      "company_preferred_name": "Klite",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1dw5fzly4qjr3y335fv8lmtn6u25hz7e27a2seg"
+    },
+    "5145": {
+      "vendor_id": 5145,
+      "vendor_name": "Lorex",
+      "company_legal_name": "Lorex Technology Inc.",
+      "company_preferred_name": "Lorex",
+      "vendor_landing_page_url": "https://www.lorex.com/",
+      "creator": "cosmos1c98nn3uphuya0w4km5uzamjwpkawksf5g6h5m5"
+    },
+    "5147": {
+      "vendor_id": 5147,
+      "vendor_name": "Rang Dong VN",
+      "company_legal_name": "Rang Dong Light Source & Vacuum Flask JSC",
+      "company_preferred_name": "Rang Dong Light Source & Vacuum Flask JSC",
+      "vendor_landing_page_url": "https://rangdong.com.vn/",
+      "creator": "cosmos1023z8vredmrn7xlzjlrlv6wdqh0fpzs8jlc9rx"
+    },
+    "5150": {
+      "vendor_id": 5150,
+      "vendor_name": "TUO Accessories LLC",
+      "company_legal_name": "TUO Accessories LLC",
+      "company_preferred_name": "TUO Accessories",
+      "vendor_landing_page_url": "http://tuoaccessories.com",
+      "creator": "cosmos1vn34dnlqvz5e997ws53yfj6a2622duzf3gg80d"
+    },
+    "5151": {
+      "vendor_id": 5151,
+      "vendor_name": "Ductech",
+      "company_legal_name": "DUCTECH Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos18nqp48ce5k7j8qvuwk7tnzmckwsd8k2tlnj850"
+    },
+    "5152": {
+      "vendor_id": 5152,
+      "vendor_name": "EcoFlow Inc.",
+      "company_legal_name": "EcoFlow Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1w6juegqt52fzd8g3paes92q55trac2gvf4clce"
+    },
+    "5153": {
+      "vendor_id": 5153,
+      "vendor_name": "Kwikset",
+      "company_legal_name": "Kwikset",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1uzek7g4dv7j2k5x7qqgzz7j4w4jtts3j204fnn"
+    },
+    "5155": {
+      "vendor_id": 5155,
+      "vendor_name": "Feit Electric",
+      "company_legal_name": "Feit Electric Company Inc.",
+      "company_preferred_name": "Feit",
+      "vendor_landing_page_url": "https://www.feit.com",
+      "creator": "cosmos1a77lyrxp9rkxftl0aznnua490s2k0x2me5x4f6"
+    },
+    "5158": {
+      "vendor_id": 5158,
+      "vendor_name": "ELEGRP",
+      "company_legal_name": "ELE (Group) Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos10xq30d74glzmhnxrsynjmq4daekuy58uja7hnl"
+    },
+    "5159": {
+      "vendor_id": 5159,
+      "vendor_name": "Hama GmbH & Co. KG",
+      "company_legal_name": "Hama GmbH & Co. KG",
+      "company_preferred_name": "Hama GmbH & Co. KG",
+      "vendor_landing_page_url": "https://de.hama.com/",
+      "creator": "cosmos19904pgghdlqls30adtng659y7vxd428sm6z963"
+    },
+    "5165": {
+      "vendor_id": 5165,
+      "vendor_name": "QH",
+      "company_legal_name": "Zhongshan QIHANG Electronic Technology Co.",
+      "company_preferred_name": "QIHANG",
+      "vendor_landing_page_url": "https://zsqhkj.1688.com/",
+      "creator": "cosmos13zzg6t6gaz36p8ctguatrguwuep9wmza6lptet"
+    },
+    "5167": {
+      "vendor_id": 5167,
+      "vendor_name": "QIACHIP",
+      "company_legal_name": "Shenzhen QIACHIP Wireless E-commerce Co.",
+      "company_preferred_name": "QIACHIP",
+      "vendor_landing_page_url": "https://qiachip.com",
+      "creator": "cosmos1rhjya3hdvpyr2a3ur7s5hj48ce2qndyfcz07ht"
+    },
+    "5171": {
+      "vendor_id": 5171,
+      "vendor_name": "MOMAX Technology (Hong Kong) Limited",
+      "company_legal_name": "MOMAX Technology (Hong Kong) Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14n7fk2marffxwytwe0yl63an4fa96z44mtxfek"
+    },
+    "5174": {
+      "vendor_id": 5174,
+      "vendor_name": "SinuxSoft",
+      "company_legal_name": "SinuxSoft Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://sinux.kr",
+      "creator": "cosmos1hqnxstx4pkgp8a3lz78knmajqdkf3gnpelw6u2"
+    },
+    "5176": {
+      "vendor_id": 5176,
+      "vendor_name": "Topstar Lighting",
+      "company_legal_name": "Xiamen Topstar Lighting Co.,Ltd",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1s59zv3d336348lxam03zr3hh0vyzv6uqpv8zzt"
+    },
+    "5181": {
+      "vendor_id": 5181,
+      "vendor_name": "Onvis",
+      "company_legal_name": "Shenzhen Champon Technology Co., Ltd",
+      "company_preferred_name": "ChampOn",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1yxrfetv9dwsnum7cjkaj2d5fluecrhdpdkprrq"
+    },
+    "5185": {
+      "vendor_id": 5185,
+      "vendor_name": "Snowball",
+      "company_legal_name": "Shenzhen Snowball Technology Co., Ltd.",
+      "company_preferred_name": "Snowball",
+      "vendor_landing_page_url": "https://www.snowballtech.com",
+      "creator": "cosmos1zfyl24d6c8p7qhk7cxqcu9thnd9wlvr74dyyqu"
+    },
+    "5190": {
+      "vendor_id": 5190,
+      "vendor_name": "TAKE AS GLOBAL",
+      "company_legal_name": "TAKE AS GLOBAL",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1cz069h67unmsty00g8epqcg52gq9vajx0xlgfz"
+    },
+    "5192": {
+      "vendor_id": 5192,
+      "vendor_name": "LivingStyle",
+      "company_legal_name": "LivingStyle Enterprises Limited",
+      "company_preferred_name": "LivingStyle",
+      "vendor_landing_page_url": "http://www.eco-lux.com.cn/en/",
+      "creator": "cosmos166kxac0rquyt3479nhvsys0vmyt6tlqmkl8fef"
+    },
+    "5193": {
+      "vendor_id": 5193,
+      "vendor_name": "Lloyd's",
+      "company_legal_name": "ZUTTO TECHNOLOGIES S.A DE C.V",
+      "company_preferred_name": "Lloyd's",
+      "vendor_landing_page_url": "https://lloydscorp.com/en/",
+      "creator": "cosmos19qx3ze7a94cfheq90lpnmjf7tdrkcaar6nuhm7"
+    },
+    "5197": {
+      "vendor_id": 5197,
+      "vendor_name": "Atios",
+      "company_legal_name": "Atios AG",
+      "company_preferred_name": "Atios AG",
+      "vendor_landing_page_url": "https://atios.ch",
+      "creator": "cosmos1x9yk0t0j0eszhje7c9g57jn4fzsfyse8etrvhf"
+    },
+    "5207": {
+      "vendor_id": 5207,
+      "vendor_name": "Wistar motor",
+      "company_legal_name": "Hangzhou Wistar Mechanical & Electric Technology Co., Ltd",
+      "company_preferred_name": "Wistar",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1nphdzy3f6yvuqt7vaxth9vjyz6s7pmfjq9v6nv"
+    },
+    "4969": {
+      "vendor_id": 4969,
+      "vendor_name": "BHtronics",
+      "company_legal_name": "BHtronics SRL",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.bhtronics.eu",
+      "creator": "cosmos1we4rkulus79tx99sj6z37rz5gud0w07wpf9774"
+    },
+    "5143": {
+      "vendor_id": 5143,
+      "vendor_name": "Konnected",
+      "company_legal_name": "Konnected Inc.",
+      "company_preferred_name": "Konnected",
+      "vendor_landing_page_url": "https://konnected.io",
+      "creator": "cosmos14d0cpj3zw7xl402mrvlzdzysacjl20fccg32m8"
+    },
+    "5149": {
+      "vendor_id": 5149,
+      "vendor_name": "Secuyou APS",
+      "company_legal_name": "Secuyou ApS",
+      "company_preferred_name": "Secuyou",
+      "vendor_landing_page_url": "http://www.secuyou.dk",
+      "creator": "cosmos1nglnnk8v90m2f8xhv2ldhntm0xngsddvf3tdfn"
+    },
+    "4892": {
+      "vendor_id": 4892,
+      "vendor_name": "HELLA",
+      "company_legal_name": "HELLA Sonnen- und Wetterschutztechnik GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.hella.info",
+      "creator": "cosmos1wglh8mctefkah5a84plhazewzu5kvfcscqr4ez"
+    },
+    "4916": {
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor",
+      "company_legal_name": "Shenzhen TCL New Technology Co.,LTD.",
+      "company_preferred_name": "TCL",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1q207rtsd55a4h9hzzl5vvsf7cw0q09mlq9nu85"
+    },
+    "4644": {
+      "vendor_id": 4644,
+      "vendor_name": "Sunricher",
+      "company_legal_name": "Shenzhen Sunricher Technology Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1eq7jwgdfcjafjlj5eq607p7j50yyl9dyw6fzw5"
+    },
+    "4107": {
+      "vendor_id": 4107,
+      "vendor_name": "Signify",
+      "company_legal_name": "Signify Netherlands B.V.",
+      "company_preferred_name": "Signify",
+      "vendor_landing_page_url": "https://www.signify.com/",
+      "creator": "cosmos1xx8fg5nu4lesn448ytds8yjql47jp8gnfh6hck"
+    },
+    "4125": {
+      "vendor_id": 4125,
+      "vendor_name": "Assa Abloy",
+      "company_legal_name": "Assa Abloy",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "http://www.yalehome.com",
+      "creator": "cosmos18wrgwrrccn49ejv4hstz9czxgw9dc2s2l9f94k"
+    },
+    "4129": {
+      "vendor_id": 4129,
+      "vendor_name": "Legrand Group",
+      "company_legal_name": "Legrand",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.legrand.com",
+      "creator": "cosmos1elm6sf9yd2n7y0l0rve4zru0ukanv76vtrjnt3"
+    },
+    "4151": {
+      "vendor_id": 4151,
+      "vendor_name": "NXP Semiconductors",
+      "company_legal_name": "NXP Semiconductors N.V.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.nxp.com",
+      "creator": "cosmos1ck0arz4kky9l9qtdvqrct7783ffv2yftgmj9ch"
+    },
+    "4190": {
+      "vendor_id": 4190,
+      "vendor_name": "Schneider",
+      "company_legal_name": "Schneider Electric",
+      "company_preferred_name": "Schneider Electric",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14kre58wpgterp7t9yy0393ecel9hpz9fnul6pc"
+    },
+    "4251": {
+      "vendor_id": 4251,
+      "vendor_name": "Leviton",
+      "company_legal_name": "Leviton Manufacturing Company",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.leviton.com",
+      "creator": "cosmos1ypyp8zrqeu64rjmx3u34ghvl64uajr67uams3d"
+    },
+    "4304": {
+      "vendor_id": 4304,
+      "vendor_name": "Qorvo",
+      "company_legal_name": "Qorvo, Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.qorvo.com/",
+      "creator": "cosmos1qrpkuzgm7hfejejfyg20g34tjxlt4k8dsspq52"
+    },
+    "4334": {
+      "vendor_id": 4334,
+      "vendor_name": "UEI",
+      "company_legal_name": "Universal Electronics Inc",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.uei.com/",
+      "creator": "cosmos1pvrad6x6ettwgudttqd97r9wvarvnj5davpltg"
+    },
+    "4338": {
+      "vendor_id": 4338,
+      "vendor_name": "ubisys",
+      "company_legal_name": "ubisys technologies GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.ubisys.de",
+      "creator": "cosmos1rxydw26p5k4f9rtwln6r3srvw4qq9pxnxadr3d"
+    },
+    "4362": {
+      "vendor_id": 4362,
+      "vendor_name": "Samsung SmartThings",
+      "company_legal_name": "Samsung SmartThings",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1e292xaqdy8qgfufycjv2tkup5eegyyvwgfrvkf"
+    },
+    "4381": {
+      "vendor_id": 4381,
+      "vendor_name": "Comcast Communications",
+      "company_legal_name": "Comcast",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1xcv4q8sjvf7nw4qj2yt5kledgwyf3ycxw8c0pe"
+    },
+    "4442": {
+      "vendor_id": 4442,
+      "vendor_name": "Nanoleaf",
+      "company_legal_name": "Nanoleaf Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://nanoleaf.me",
+      "creator": "cosmos1sggrrmw05e6alve8umwdaszade5qxyt53kthud"
+    },
+    "4447": {
+      "vendor_id": 4447,
+      "vendor_name": "Aqara",
+      "company_legal_name": "Lumi United Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.aqara.com/",
+      "creator": "cosmos1qpz3ghnqj6my7gzegkftzav9hpxymkx6zdk73v"
+    },
+    "4448": {
+      "vendor_id": 4448,
+      "vendor_name": "Sengled",
+      "company_legal_name": "Sengled Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1arhkv0n34xylxz9suy73dpyk6de32gpym9l3sw"
+    },
+    "4454": {
+      "vendor_id": 4454,
+      "vendor_name": "Innr",
+      "company_legal_name": "Innr Lighting B.V.",
+      "company_preferred_name": "Innr",
+      "vendor_landing_page_url": "https://www.innr.com",
+      "creator": "cosmos1yfesa8ned026v5qjpvxqgszduuqf2p8urlcwdr"
+    },
+    "4456": {
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson",
+      "company_legal_name": "Leedarson IoT Technology Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1mzg0v94yg0cmkjqe2jqsys44tvvfk9mt2d889d"
+    },
+    "4478": {
+      "vendor_id": 4478,
+      "vendor_name": "Feibit",
+      "company_legal_name": "Shenzhen Feibit Electronic Technology Co.,Ltd",
+      "company_preferred_name": "Feibit",
+      "vendor_landing_page_url": "http://www.feibit.com",
+      "creator": "cosmos162y3ehrqpuu2xjvmgq6qq7yqtdh6mlwh32wv2h"
+    },
+    "4488": {
+      "vendor_id": 4488,
+      "vendor_name": "TP-Link",
+      "company_legal_name": "TP-Link Corporation Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.tp-link.com",
+      "creator": "cosmos1jxpj6rr8vnetz9a2ec08az5fwqpuf4zt4hhygv"
+    },
+    "4489": {
+      "vendor_id": 4489,
+      "vendor_name": "LEDVANCE",
+      "company_legal_name": "Ledvance GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14f7agdec0hxlkvtr2q2f3wa0ggxehy4qej99fs"
+    },
+    "4492": {
+      "vendor_id": 4492,
+      "vendor_name": "Midea Group",
+      "company_legal_name": "Midea Group",
+      "company_preferred_name": "Midea",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1a7c8us8jl76f8uue6xf9gzzqklfmfdyh8nedae"
+    },
+    "4617": {
+      "vendor_id": 4617,
+      "vendor_name": "Bosch",
+      "company_legal_name": "Robert Bosch GmbH",
+      "company_preferred_name": "Bosch",
+      "vendor_landing_page_url": "https://www.bosch.com",
+      "creator": "cosmos1lugc5ushxpnwkmgd6xjstqw9d52hccn4t36rvf"
+    },
+    "4619": {
+      "vendor_id": 4619,
+      "vendor_name": "HEIMAN",
+      "company_legal_name": "Shenzhen Heiman Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos16s4lqhxyqdr5lq6gmfpskjtwjf7dwc0lktn6dt"
+    },
+    "4631": {
+      "vendor_id": 4631,
+      "vendor_name": "Amazon Alexa",
+      "company_legal_name": "Amazon.com, Inc.",
+      "company_preferred_name": "Amazon Alexa",
+      "vendor_landing_page_url": "https://www.amazon.com",
+      "creator": "cosmos152v4ejapsjl222zew0ll4eeltc0h2phh5hzpu3"
+    },
+    "4633": {
+      "vendor_id": 4633,
+      "vendor_name": "ORVIBO",
+      "company_legal_name": "Shenzhen ORVIBO Technology Co.,  Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.orvibo.com",
+      "creator": "cosmos1u7um30yf68zugm897tgpq7s6vhkhk4t2ykm0hq"
+    },
+    "4644": {
+      "vendor_id": 4644,
+      "vendor_name": "Sunricher",
+      "company_legal_name": "Shenzhen Sunricher Technology Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1eq7jwgdfcjafjlj5eq607p7j50yyl9dyw6fzw5"
+    },
+    "4701": {
+      "vendor_id": 4701,
+      "vendor_name": "Tuya",
+      "company_legal_name": "Tuya Global Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos13pwvzq2zk0r3fxuc2a5jhadnx6tda5ar2tcpp9"
+    },
+    "4718": {
+      "vendor_id": 4718,
+      "vendor_name": "Xiaomi",
+      "company_legal_name": "Xiaomi Communications Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://iot.mi.com",
+      "creator": "cosmos1vl4gd4ptkngnnyggklj9wn4a5f6qkqwpmhjm0c"
+    },
+    "4735": {
+      "vendor_id": 4735,
+      "vendor_name": "Nordic Semiconductor ASA",
+      "company_legal_name": "Nordic Semiconductor ASA",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.nordicsemi.com",
+      "creator": "cosmos1eatgwsxtjz0tlchllzasjfcac6m56n30njc3k2"
+    },
+    "4736": {
+      "vendor_id": 4736,
+      "vendor_name": "Siterwell",
+      "company_legal_name": "Siterwell Electronics Co., Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1u3uhlkepx9dz9asrlucuupw2md2frvkwv583nr"
+    },
+    "4742": {
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit",
+      "company_legal_name": "SHENZHEN Coolkit Technology CO.,LTD.",
+      "company_preferred_name": "CoolKit",
+      "vendor_landing_page_url": "https://www.coolkit.cn/",
+      "creator": "cosmos18m8lehnvqx8zytn22fkekelt7xgmrl7cga37tl"
+    },
+    "4751": {
+      "vendor_id": 4751,
+      "vendor_name": "EGLO",
+      "company_legal_name": "EGLO Leuchten GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.eglo.com/en/",
+      "creator": "cosmos1veu2f7mtgvfw8ezjfmhs64cqyt9wp2weas2rga"
+    },
+    "4874": {
+      "vendor_id": 4874,
+      "vendor_name": "Eve",
+      "company_legal_name": "Eve Systems GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.evehome.com",
+      "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+    },
+    "4876": {
+      "vendor_id": 4876,
+      "vendor_name": "EVVR",
+      "company_legal_name": "EVVR ApS",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://evvr.io",
+      "creator": "cosmos1n85ws0jfqxue2qa3u034qydl0hdnmddunq8s0d"
+    },
+    "4877": {
+      "vendor_id": 4877,
+      "vendor_name": "BouffaloLab",
+      "company_legal_name": "Bouffalo Lab (Nanjing) Co., Ltd.",
+      "company_preferred_name": "Bouffalo Lab ",
+      "vendor_landing_page_url": "https://www.bouffalolab.com/",
+      "creator": "cosmos1l8qwcjgfcnvlmtxrlcjrsmy9068mlck2cw68kx"
+    },
+    "4882": {
+      "vendor_id": 4882,
+      "vendor_name": "Yeelight",
+      "company_legal_name": "Qingdao Yeelink Information Technology Co., Ltd.",
+      "company_preferred_name": "Yeelink Information Technology",
+      "vendor_landing_page_url": "https://en.yeelight.com/#",
+      "creator": "cosmos18fcq3647dkwur0d0zjyenj8sk57jehq4a8epaf"
+    },
+    "4891": {
+      "vendor_id": 4891,
+      "vendor_name": "Espressif Systems",
+      "company_legal_name": "Espressif Systems (Shanghai) Co. Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.espressif.com",
+      "creator": "cosmos1vncrg6hk30kutk4nr26mvyqc92zkygcc7aemzt"
+    },
+    "4892": {
+      "vendor_id": 4892,
+      "vendor_name": "HELLA",
+      "company_legal_name": "HELLA Sonnen- und Wetterschutztechnik GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.hella.info",
+      "creator": "cosmos1wglh8mctefkah5a84plhazewzu5kvfcscqr4ez"
+    },
+    "4894": {
+      "vendor_id": 4894,
+      "vendor_name": "CAME S.p.A.",
+      "company_legal_name": "CAME S.p.A.",
+      "company_preferred_name": "CAME S.p.A.",
+      "vendor_landing_page_url": "https://www.came.com/",
+      "creator": "cosmos1kxjh94dcvnym6265nmxcjpn9xpkx0y7e3jjeqc"
+    },
+    "4895": {
+      "vendor_id": 4895,
+      "vendor_name": "Longan.link",
+      "company_legal_name": "Longan Link Tech Co.,LTD",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://longan.link/",
+      "creator": "cosmos1qnd2v3n0f0ukja8z0jm4jqsqs5qhxa6ncvcxuv"
+    },
+    "4897": {
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF",
+      "company_legal_name": "Shenzhen Sonoff Technologies Co.,Ltd.",
+      "company_preferred_name": "SONOFF",
+      "vendor_landing_page_url": "https://sonoff.tech/",
+      "creator": "cosmos160c6r8rc2pgpgucasw4ae5gfqtz5vzcc6ay2sz"
+    },
+    "4910": {
+      "vendor_id": 4910,
+      "vendor_name": "Yankon",
+      "company_legal_name": "Xiamen Yankon Energetic Lighting Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1enly8nj2sc9jlcqh5636zr2awen57mu0anjfmj"
+    },
+    "4915": {
+      "vendor_id": 4915,
+      "vendor_name": "Becker Antriebe",
+      "company_legal_name": "Becker Antriebe GmbH",
+      "company_preferred_name": "Becker Antriebe",
+      "vendor_landing_page_url": "https://www.becker-antriebe.com/",
+      "creator": "cosmos1f6knru06kkxm306ckgs93zs9aqyrk9axgqh5wq"
+    },
+    "4916": {
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor",
+      "company_legal_name": "Shenzhen TCL New Technology Co.,LTD.",
+      "company_preferred_name": "TCL",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1q207rtsd55a4h9hzzl5vvsf7cw0q09mlq9nu85"
+    },
+    "4921": {
+      "vendor_id": 4921,
+      "vendor_name": "GE Lighting, a Savant company",
+      "company_legal_name": "GE Lighting, a Savant company",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.gelighting.com/",
+      "creator": "cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc"
+    },
+    "4927": {
+      "vendor_id": 4927,
+      "vendor_name": "ASR",
+      "company_legal_name": "ASR Microelectronics(ShenZhen)Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14a9n65wmumympggqnquu5ptq042ff69nehztk7"
+    },
+    "4930": {
+      "vendor_id": 4930,
+      "vendor_name": "Beken Corporation",
+      "company_legal_name": "beken",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "http://www.bekencorp.com/",
+      "creator": "cosmos1aru484uj9dqkpnqg768tl6m66fvz9wkqcg79cw"
+    },
+    "4932": {
+      "vendor_id": 4932,
+      "vendor_name": "Eltako",
+      "company_legal_name": "Eltako GmbH",
+      "company_preferred_name": "Eltako",
+      "vendor_landing_page_url": "https://www.eltako.com",
+      "creator": "cosmos1n3kqdwqh33grxcnzdeknercyt3wekc5zl4n3dg"
+    },
+    "4933": {
+      "vendor_id": 4933,
+      "vendor_name": "Meross",
+      "company_legal_name": "Chengdu Meross Technology Co., Ltd.",
+      "company_preferred_name": "Meross",
+      "vendor_landing_page_url": "https://www.meross.com",
+      "creator": "cosmos18qu47pmqwylzm9w2tezyrmvcwmkew5yyvw3d6n"
+    },
+    "4934": {
+      "vendor_id": 4934,
+      "vendor_name": "Rafael",
+      "company_legal_name": "Rafael Microelectronics, Inc.",
+      "company_preferred_name": "Rafael",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14myns7fehcxm2c896k5syhzr7zsyf7g4jdlk08"
+    },
+    "4937": {
+      "vendor_id": 4937,
+      "vendor_name": "Apple Home",
+      "company_legal_name": "Apple Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.apple.com/home-app",
+      "creator": "cosmos1ysl37yl5nmcg8qr64knpscahq5zel3hjtxmvyt"
+    },
+    "4942": {
+      "vendor_id": 4942,
+      "vendor_name": "tado",
+      "company_legal_name": "tado GmbH",
+      "company_preferred_name": "tado°",
+      "vendor_landing_page_url": "https://www.tado.com/",
+      "creator": "cosmos1sacvh2z4w0f3d657a2tdw2w4ha87743c8qahkv"
+    },
+    "4943": {
+      "vendor_id": 4943,
+      "vendor_name": "mediola",
+      "company_legal_name": "mediola - connected living AG",
+      "company_preferred_name": "mediola",
+      "vendor_landing_page_url": "https://www.mediola.com",
+      "creator": "cosmos1j2w2zq787mkwltsdhzlxpnm50s8nrvg85u20dh"
+    },
+    "4945": {
+      "vendor_id": 4945,
+      "vendor_name": "HooRii Technology",
+      "company_legal_name": "HooRii Technology CO., LTD",
+      "company_preferred_name": "HooRii Technology",
+      "vendor_landing_page_url": "https://www.hoorii.io/",
+      "creator": "cosmos1etk35ufz9z4x56t63tap7ncsvk5k5zw2npmlcu"
+    },
+    "4954": {
+      "vendor_id": 4954,
+      "vendor_name": "Siegenia Aubi KG",
+      "company_legal_name": "SIEGENIA-AUBI KG",
+      "company_preferred_name": "SIEGENIA",
+      "vendor_landing_page_url": "https://www.siegenia.com",
+      "creator": "cosmos19uy3kac2ndayacvfvrpfd349hd2p70wdnewwxh"
+    },
+    "4957": {
+      "vendor_id": 4957,
+      "vendor_name": "Nuki",
+      "company_legal_name": "Nuki Home Solutions GmbH",
+      "company_preferred_name": "Nuki",
+      "vendor_landing_page_url": "https://nuki.io",
+      "creator": "cosmos1tdslga3va6luqzy2x3nlwxfh80f99vly5800ls"
+    },
+    "4962": {
+      "vendor_id": 4962,
+      "vendor_name": "deveritec GmbH",
+      "company_legal_name": "deveritec GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://deveritec.de",
+      "creator": "cosmos19740ad8368h0h33rcu6gugtxgvyuws7puqg0za"
+    },
+    "4965": {
+      "vendor_id": 4965,
+      "vendor_name": "Dooya",
+      "company_legal_name": "Ningbo Dooya Mechanic & Electronic Technology Co.,Ltd",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1pqypa94grwkmk2d7e0ncdctfav5wyycu787tmk"
+    },
+    "4969": {
+      "vendor_id": 4969,
+      "vendor_name": "BHtronics",
+      "company_legal_name": "BHtronics SRL",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.bhtronics.eu",
+      "creator": "cosmos1we4rkulus79tx99sj6z37rz5gud0w07wpf9774"
+    },
+    "4972": {
+      "vendor_id": 4972,
+      "vendor_name": "Onewish",
+      "company_legal_name": "Kee Tat Manufactory Holdings Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1ft8k38eu76l76v0xhnk33cqknn648qtwww428s"
+    },
+    "4974": {
+      "vendor_id": 4974,
+      "vendor_name": "Ambi Labs Limited",
+      "company_legal_name": "Ambi Labs Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos12st2nx5elvkyswv7nqw6xh6j67vg472lcv0299"
+    },
+    "4977": {
+      "vendor_id": 4977,
+      "vendor_name": "Tridonic",
+      "company_legal_name": "Tridonic GmbH & Co KG",
+      "company_preferred_name": "Tridonic",
+      "vendor_landing_page_url": "https://www.tridonic.com/matter",
+      "creator": "cosmos16ad3em3nrqzf854p03audmgdl3pc384467yzav"
+    },
+    "4978": {
+      "vendor_id": 4978,
+      "vendor_name": "innovation matters",
+      "company_legal_name": "innovation matters iot GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.innovation-matters.at/",
+      "creator": "cosmos1v6x4nte50al0jjynvldwqse9n4ceajmja3wvph"
+    },
+    "4991": {
+      "vendor_id": 4991,
+      "vendor_name": "NEO",
+      "company_legal_name": "Shenzhen NEO Electronic CO",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos18cvsug5mc7vj9a6kxaj0fwp99vj9ga3xd3lnql"
+    },
+    "4993": {
+      "vendor_id": 4993,
+      "vendor_name": "Amazon Prime Video",
+      "company_legal_name": "Amazon.com, Inc.",
+      "company_preferred_name": "Amazon Prime Video",
+      "vendor_landing_page_url": "https://www.amazon.com",
+      "creator": "cosmos1akrkaxvlfwnnk2phtxewadmel4s567wr8xmfj8"
+    },
+    "4996": {
+      "vendor_id": 4996,
+      "vendor_name": "Apple Keychain",
+      "company_legal_name": "Apple Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://support.apple.com/en-us/HT213441",
+      "creator": "cosmos1qqgp6p73z0lku4qzeajgtxtzy24xx467j0v0kp"
+    },
+    "4998": {
+      "vendor_id": 4998,
+      "vendor_name": "Skylux",
+      "company_legal_name": "Skylux N.V.",
+      "company_preferred_name": "Skylux",
+      "vendor_landing_page_url": "https://www.skylux.eu",
+      "creator": "cosmos1f9haxa732cy6rmm3nc88q9fxx9zv0m0qn3kzcm"
+    },
+    "4999": {
+      "vendor_id": 4999,
+      "vendor_name": "Govee",
+      "company_legal_name": "Shenzhen Qianyan Technology LTD",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos15qlrdtlxgkdwjy0u72elamlgu3cjffjc6rvf4e"
+    },
+    "5002": {
+      "vendor_id": 5002,
+      "vendor_name": "Nature",
+      "company_legal_name": "Nature Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://nature.global/",
+      "creator": "cosmos1yvwf85sx9mp53kptfwfz49cmmznvj2j0efavzu"
+    },
+    "5004": {
+      "vendor_id": 5004,
+      "vendor_name": "Hisense",
+      "company_legal_name": "Hisense Group Co. Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1nzh05g5d92cmtcmgq60nquy4awud254p2y06l8"
+    },
+    "5009": {
+      "vendor_id": 5009,
+      "vendor_name": "Kasa",
+      "company_legal_name": "TP-Link Corporation Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.kasasmart.com",
+      "creator": "cosmos1fjwwzm8zs9yc2hq73tqggdylcmm0ujmuc7x9wn"
+    },
+    "5010": {
+      "vendor_id": 5010,
+      "vendor_name": "Tapo",
+      "company_legal_name": "TP-Link Corporation Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.tapo.com",
+      "creator": "cosmos1acw4mmmf26e7jkxqm5epu7g56tcgz0walk3vs8"
+    },
+    "5015": {
+      "vendor_id": 5015,
+      "vendor_name": "SwitchBot",
+      "company_legal_name": "Woan Technology (Shenzhen) Co., Ltd. ",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1dc9patujyr2av2ezggudfalfag7p7scc0t3wnk"
+    },
+    "5020": {
+      "vendor_id": 5020,
+      "vendor_name": "Zemismart Technology Limited",
+      "company_legal_name": "Zemismart Technology Limited",
+      "company_preferred_name": "Zemismart",
+      "vendor_landing_page_url": "https://www.zemismart.com",
+      "creator": "cosmos1mrv5zh6r6kcfln34vju5kfup4mv9lw27u33yj0"
+    },
+    "5120": {
+      "vendor_id": 5120,
+      "vendor_name": "Uascent",
+      "company_legal_name": "Uascent Technology Company Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1ynw4zl6xqnvh5zhzhhpxjc6kt8z8wvxkp8edsw"
+    },
+    "5123": {
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia",
+      "company_legal_name": "Arlec Australia Pty. Ltd.",
+      "company_preferred_name": "Grid Connect",
+      "vendor_landing_page_url": "https://grid-connect.com.au/",
+      "creator": "cosmos1d9ut0ysdlw68r0705q8tagf7y9cf3d686fpf73"
+    },
+    "5124": {
+      "vendor_id": 5124,
+      "vendor_name": "Phaten",
+      "company_legal_name": "Shenzhen Phaten Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.phaten.com",
+      "creator": "cosmos1h4rf0hjzf498s2lu0rf8m52ujst2gl7lpdnexs"
+    },
+    "5127": {
+      "vendor_id": 5127,
+      "vendor_name": "ThirdReality",
+      "company_legal_name": "Jiangsu Shushi Technology Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1qwnh6tj4n938g3fmncqna22zmfxx50vnd22yux"
+    },
+    "5131": {
+      "vendor_id": 5131,
+      "vendor_name": "70mai Co., Ltd.",
+      "company_legal_name": "70mai Co., Ltd.",
+      "company_preferred_name": "70mai",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos16eywj3z0k6jaxnuycky4k7u2m8wt7qy9wclxv4"
+    },
+    "5136": {
+      "vendor_id": 5136,
+      "vendor_name": "Quectel",
+      "company_legal_name": "Quectel Wireless Solutions Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.quectel.com",
+      "creator": "cosmos1dqrg6w2jjs7sft59dpqngjzyfdjh4xjn5rjct5"
+    },
+    "5139": {
+      "vendor_id": 5139,
+      "vendor_name": "1Home",
+      "company_legal_name": "1Home Solutions GmbH",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://www.1home.io/",
+      "creator": "cosmos1nzyp28afpumk0djal2w35s2pcl0q3e57euplkq"
+    },
+    "5141": {
+      "vendor_id": 5141,
+      "vendor_name": "Caveman",
+      "company_legal_name": "Nanoleaf Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1smgmnl90h9srczk926l5kt7rydjpq7x0smc5e7"
+    },
+    "5142": {
+      "vendor_id": 5142,
+      "vendor_name": "Umbra",
+      "company_legal_name": "Nanoleaf Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1eldeezdpcrcz2z034dku25j42cj69sshhl0ufm"
+    },
+    "5143": {
+      "vendor_id": 5143,
+      "vendor_name": "Konnected",
+      "company_legal_name": "Konnected Inc.",
+      "company_preferred_name": "Konnected",
+      "vendor_landing_page_url": "https://konnected.io",
+      "creator": "cosmos14d0cpj3zw7xl402mrvlzdzysacjl20fccg32m8"
+    },
+    "5144": {
+      "vendor_id": 5144,
+      "vendor_name": "Klite",
+      "company_legal_name": "Zhejiang Klite Lighting Holdings Co.,Ltd.",
+      "company_preferred_name": "Klite",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1dw5fzly4qjr3y335fv8lmtn6u25hz7e27a2seg"
+    },
+    "5145": {
+      "vendor_id": 5145,
+      "vendor_name": "Lorex",
+      "company_legal_name": "Lorex Technology Inc.",
+      "company_preferred_name": "Lorex",
+      "vendor_landing_page_url": "https://www.lorex.com/",
+      "creator": "cosmos1c98nn3uphuya0w4km5uzamjwpkawksf5g6h5m5"
+    },
+    "5147": {
+      "vendor_id": 5147,
+      "vendor_name": "Rang Dong VN",
+      "company_legal_name": "Rang Dong Light Source & Vacuum Flask JSC",
+      "company_preferred_name": "Rang Dong Light Source & Vacuum Flask JSC",
+      "vendor_landing_page_url": "https://rangdong.com.vn/",
+      "creator": "cosmos1023z8vredmrn7xlzjlrlv6wdqh0fpzs8jlc9rx"
+    },
+    "5149": {
+      "vendor_id": 5149,
+      "vendor_name": "Secuyou APS",
+      "company_legal_name": "Secuyou ApS",
+      "company_preferred_name": "Secuyou",
+      "vendor_landing_page_url": "http://www.secuyou.dk",
+      "creator": "cosmos1nglnnk8v90m2f8xhv2ldhntm0xngsddvf3tdfn"
+    },
+    "5150": {
+      "vendor_id": 5150,
+      "vendor_name": "TUO Accessories LLC",
+      "company_legal_name": "TUO Accessories LLC",
+      "company_preferred_name": "TUO Accessories",
+      "vendor_landing_page_url": "http://tuoaccessories.com",
+      "creator": "cosmos1vn34dnlqvz5e997ws53yfj6a2622duzf3gg80d"
+    },
+    "5151": {
+      "vendor_id": 5151,
+      "vendor_name": "Ductech",
+      "company_legal_name": "DUCTECH Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos18nqp48ce5k7j8qvuwk7tnzmckwsd8k2tlnj850"
+    },
+    "5152": {
+      "vendor_id": 5152,
+      "vendor_name": "EcoFlow Inc.",
+      "company_legal_name": "EcoFlow Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1w6juegqt52fzd8g3paes92q55trac2gvf4clce"
+    },
+    "5153": {
+      "vendor_id": 5153,
+      "vendor_name": "Kwikset",
+      "company_legal_name": "Kwikset",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1uzek7g4dv7j2k5x7qqgzz7j4w4jtts3j204fnn"
+    },
+    "5155": {
+      "vendor_id": 5155,
+      "vendor_name": "Feit Electric",
+      "company_legal_name": "Feit Electric Company Inc.",
+      "company_preferred_name": "Feit",
+      "vendor_landing_page_url": "https://www.feit.com",
+      "creator": "cosmos1a77lyrxp9rkxftl0aznnua490s2k0x2me5x4f6"
+    },
+    "5158": {
+      "vendor_id": 5158,
+      "vendor_name": "ELEGRP",
+      "company_legal_name": "ELE (Group) Co., Ltd.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos10xq30d74glzmhnxrsynjmq4daekuy58uja7hnl"
+    },
+    "5159": {
+      "vendor_id": 5159,
+      "vendor_name": "Hama GmbH & Co. KG",
+      "company_legal_name": "Hama GmbH & Co. KG",
+      "company_preferred_name": "Hama GmbH & Co. KG",
+      "vendor_landing_page_url": "https://de.hama.com/",
+      "creator": "cosmos19904pgghdlqls30adtng659y7vxd428sm6z963"
+    },
+    "5165": {
+      "vendor_id": 5165,
+      "vendor_name": "QH",
+      "company_legal_name": "Zhongshan QIHANG Electronic Technology Co.",
+      "company_preferred_name": "QIHANG",
+      "vendor_landing_page_url": "https://zsqhkj.1688.com/",
+      "creator": "cosmos13zzg6t6gaz36p8ctguatrguwuep9wmza6lptet"
+    },
+    "5167": {
+      "vendor_id": 5167,
+      "vendor_name": "QIACHIP",
+      "company_legal_name": "Shenzhen QIACHIP Wireless E-commerce Co.",
+      "company_preferred_name": "QIACHIP",
+      "vendor_landing_page_url": "https://qiachip.com",
+      "creator": "cosmos1rhjya3hdvpyr2a3ur7s5hj48ce2qndyfcz07ht"
+    },
+    "5171": {
+      "vendor_id": 5171,
+      "vendor_name": "MOMAX Technology (Hong Kong) Limited",
+      "company_legal_name": "MOMAX Technology (Hong Kong) Limited",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos14n7fk2marffxwytwe0yl63an4fa96z44mtxfek"
+    },
+    "5174": {
+      "vendor_id": 5174,
+      "vendor_name": "SinuxSoft",
+      "company_legal_name": "SinuxSoft Inc.",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "https://sinux.kr",
+      "creator": "cosmos1hqnxstx4pkgp8a3lz78knmajqdkf3gnpelw6u2"
+    },
+    "5176": {
+      "vendor_id": 5176,
+      "vendor_name": "Topstar Lighting",
+      "company_legal_name": "Xiamen Topstar Lighting Co.,Ltd",
+      "company_preferred_name": "",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1s59zv3d336348lxam03zr3hh0vyzv6uqpv8zzt"
+    },
+    "5181": {
+      "vendor_id": 5181,
+      "vendor_name": "Onvis",
+      "company_legal_name": "Shenzhen Champon Technology Co., Ltd",
+      "company_preferred_name": "ChampOn",
+      "vendor_landing_page_url": "",
+      "creator": "cosmos1yxrfetv9dwsnum7cjkaj2d5fluecrhdpdkprrq"
+    }
+  },
+  "last_node_id": 4,
+  "nodes": {
+    "2": {
+      "node_id": 2,
+      "date_commissioned": "2023-10-19T17:08:11.769168",
+      "last_interview": "2023-10-19T17:08:11.769174",
+      "interview_version": 4,
+      "available": true,
+      "is_bridge": false,
+      "attributes": {
+        "1/29/65529": [],
+        "1/29/2": [],
+        "1/29/65532": 0,
+        "1/29/1": [
+          29,
+          3,
+          4,
+          5,
+          6,
+          8,
+          768
+        ],
+        "1/29/3": [],
+        "1/29/65533": 1,
+        "1/29/0": [
+          {
+            "deviceType": 269,
+            "revision": 2
+          }
+        ],
+        "1/29/65531": [
+          65528,
+          65529,
+          65531,
+          65533,
+          0,
+          1,
+          2,
+          3,
+          65532
+        ],
+        "1/29/65528": [],
+        "1/8/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          0,
+          17,
+          15,
+          1,
+          2,
+          3,
+          16384,
+          16,
+          18,
+          19,
+          20
+        ],
+        "1/8/65528": [],
+        "1/8/3": 254,
+        "1/8/17": 254,
+        "1/8/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "1/8/65533": 5,
+        "1/8/16": 0,
+        "1/8/2": 1,
+        "1/8/1": 0,
+        "1/8/19": 0,
+        "1/8/16384": null,
+        "1/8/20": 50,
+        "1/8/18": 0,
+        "1/8/65532": 3,
+        "1/8/0": 254,
+        "1/8/15": 0,
+        "1/768/16390": 0,
+        "1/768/3": 24939,
+        "1/768/16386": 0,
+        "1/768/16385": 2,
+        "1/768/4": 24701,
+        "1/768/16387": 0,
+        "1/768/7": 500,
+        "1/768/65532": 31,
+        "1/768/2": 0,
+        "1/768/16400": null,
+        "1/768/16384": 0,
+        "1/768/1": 254,
+        "1/768/16": 0,
+        "1/768/16388": 25,
+        "1/768/16396": 555,
+        "1/768/0": 110,
+        "1/768/16389": 8960,
+        "1/768/15": 0,
+        "1/768/65529": [
+          10,
+          71,
+          75,
+          76,
+          7,
+          8,
+          9,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          64,
+          65,
+          66,
+          67,
+          68
+        ],
+        "1/768/65528": [],
+        "1/768/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          8,
+          15,
+          16385,
+          16394,
+          16,
+          2,
+          7,
+          16395,
+          16396,
+          16397,
+          16400,
+          3,
+          4,
+          0,
+          1,
+          16384,
+          16386,
+          16387,
+          16388,
+          16389,
+          16390
+        ],
+        "1/768/8": 0,
+        "1/768/16397": 0,
+        "1/768/16395": 153,
+        "1/768/65533": 5,
+        "1/768/16394": 31,
+        "1/3/1": 1,
+        "1/3/65533": 4,
+        "1/3/65528": [],
+        "1/3/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          0,
+          1
+        ],
+        "1/3/65532": 0,
+        "1/3/0": 0,
+        "1/3/65529": [
+          0,
+          64
+        ],
+        "1/6/16385": 0,
+        "1/6/16387": null,
+        "1/6/0": true,
+        "1/6/16386": 0,
+        "1/6/65533": 4,
+        "1/6/65528": [],
+        "1/6/16384": true,
+        "1/6/65532": 1,
+        "1/6/65529": [
+          0,
+          1,
+          2,
+          64,
+          65,
+          66
+        ],
+        "1/6/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          0,
+          16384,
+          16385,
+          16386,
+          16387
+        ],
+        "1/5/1": 0,
+        "1/5/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "1/5/65533": 4,
+        "1/5/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "1/5/65532": 0,
+        "1/5/0": 0,
+        "1/5/3": false,
+        "1/5/2": 0,
+        "1/5/65528": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "1/5/4": 0,
+        "1/4/0": 128,
+        "1/4/65532": 1,
+        "1/4/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "1/4/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          0
+        ],
+        "1/4/65528": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "1/4/65533": 4,
+        "0/31/2": 4,
+        "0/31/65532": 0,
+        "0/31/65529": [],
+        "0/31/0": [
+          {
+            "privilege": 0,
+            "authMode": 0,
+            "subjects": null,
+            "targets": null,
+            "fabricIndex": 1
+          },
+          {
+            "privilege": 5,
+            "authMode": 2,
+            "subjects": [
+              112233
+            ],
+            "targets": null,
+            "fabricIndex": 2
+          }
+        ],
+        "0/31/3": 3,
+        "0/31/1": [],
+        "0/31/4": 3,
+        "0/31/65528": [],
+        "0/31/65533": 1,
+        "0/31/65531": [
+          65528,
+          65529,
+          65531,
+          65533,
+          0,
+          2,
+          4,
+          3,
+          65532,
+          1
+        ],
+        "0/48/0": 0,
+        "0/48/2": 0,
+        "0/48/1": {
+          "failSafeExpiryLengthSeconds": 60,
+          "maxCumulativeFailsafeSeconds": 900
+        },
+        "0/48/3": 0,
+        "0/48/65532": 0,
+        "0/48/4": true,
+        "0/48/65529": [
+          0,
+          2,
+          4
+        ],
+        "0/48/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          2,
+          3,
+          1,
+          4,
+          65533,
+          0
+        ],
+        "0/48/65528": [
+          1,
+          3,
+          5
+        ],
+        "0/48/65533": 1,
+        "0/49/6": "TW9uKElvVClyX01hdHRlcg==",
+        "0/49/7": null,
+        "0/49/4": true,
+        "0/49/1": [
+          {
+            "networkID": "TW9uKElvVClyX01hdHRlcg==",
+            "connected": true
+          }
+        ],
+        "0/49/65533": 1,
+        "0/49/65529": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ],
+        "0/49/5": 0,
+        "0/49/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/49/0": 1,
+        "0/49/65528": [
+          1,
+          5,
+          7
+        ],
+        "0/49/2": 10,
+        "0/49/3": 30,
+        "0/49/65532": 1,
+        "0/40/6": "XX",
+        "0/40/65533": 1,
+        "0/40/7": 1,
+        "0/40/15": "00001318514",
+        "0/40/65529": [],
+        "0/40/65528": [],
+        "0/40/13": "",
+        "0/40/8": "V1.0.0",
+        "0/40/9": 2,
+        "0/40/0": 1,
+        "0/40/19": {
+          "caseSessionsPerFabric": 3,
+          "subscriptionsPerFabric": 3
+        },
+        "0/40/2": 4456,
+        "0/40/10": "V2.00.00",
+        "0/40/18": "F2BDC410A8D608E9",
+        "0/40/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          0,
+          6,
+          1,
+          2,
+          3,
+          4,
+          7,
+          8,
+          9,
+          10,
+          19,
+          65533,
+          5,
+          13,
+          14,
+          15,
+          18
+        ],
+        "0/40/4": 1002,
+        "0/40/14": "",
+        "0/40/3": "Smart RGBTW Bulb",
+        "0/40/1": "Leedarson",
+        "0/40/65532": 0,
+        "0/40/5": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "0/51/0": [
+          {
+            "name": "WIFI_AP_DEF",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "AAAAAAAA",
+            "IPv4Addresses": [
+              "wKgEAQ=="
+            ],
+            "IPv6Addresses": [],
+            "type": 1
+          },
+          {
+            "name": "WIFI_STA_DEF",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "1PmNNhRY",
+            "IPv4Addresses": [
+              "wKgMlg=="
+            ],
+            "IPv6Addresses": [
+              "/oAAAAAAAADW+Y3//jYUWA==",
+              "/cCwU0HmQorW+Y3//jYUWA=="
+            ],
+            "type": 1
+          }
+        ],
+        "0/51/8": false,
+        "0/51/65532": 0,
+        "0/51/1": 1,
+        "0/51/65533": 1,
+        "0/51/65529": [
+          0
+        ],
+        "0/51/65528": [],
+        "0/51/65531": [
+          0,
+          1,
+          8,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/60/65532": 0,
+        "0/60/65528": [],
+        "0/60/0": 0,
+        "0/60/2": null,
+        "0/60/65529": [
+          0,
+          1,
+          2
+        ],
+        "0/60/65533": 1,
+        "0/60/1": null,
+        "0/60/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          0,
+          1,
+          2,
+          65533
+        ],
+        "0/54/65528": [],
+        "0/54/0": "Am4OEXfy",
+        "0/54/65529": [],
+        "0/54/2": 3,
+        "0/54/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          0,
+          1,
+          2,
+          3,
+          4,
+          65533
+        ],
+        "0/54/3": 1,
+        "0/54/65533": 1,
+        "0/54/65532": 0,
+        "0/54/4": -49,
+        "0/54/1": 4,
+        "0/42/0": [],
+        "0/42/1": true,
+        "0/42/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          0,
+          65533,
+          1,
+          2,
+          3
+        ],
+        "0/42/3": null,
+        "0/42/65528": [],
+        "0/42/65532": 0,
+        "0/42/65533": 1,
+        "0/42/65529": [
+          0
+        ],
+        "0/42/2": 1,
+        "0/29/0": [
+          {
+            "deviceType": 22,
+            "revision": 1
+          }
+        ],
+        "0/29/65532": 0,
+        "0/29/2": [
+          41
+        ],
+        "0/29/65528": [],
+        "0/29/65529": [],
+        "0/29/1": [
+          29,
+          31,
+          40,
+          48,
+          49,
+          51,
+          60,
+          62,
+          63,
+          54,
+          42
+        ],
+        "0/29/65533": 1,
+        "0/29/65531": [
+          65528,
+          65529,
+          65531,
+          65533,
+          0,
+          1,
+          2,
+          3,
+          65532
+        ],
+        "0/29/3": [
+          1
+        ],
+        "0/62/4": [
+          "FTABAQEkAgE3AycUIcWC92xmn0EYJgSAqUAsJgWAr9hRNwYnFCHFgvdsZp9BGCQHASQIATAJQQSJOeD4TdlpPDUOTvmDm+9ZPjzAe1M36WNpYYikzCFOEIBqeNUxo6H1mWpowCu8AVd5+OnZCUFxZPcGN3KfRb5nNwo1ASkBGCQCYDAEFPSZ2HVc7vXoT6yRBJ56oY36brO6MAUU9JnYdVzu9ehPrJEEnnqhjfpus7oYMAtAI32lulM8JySwW77jrm4+cH+Df3DTcpXZalYjaIL+FNMUhN8gxFtustHT1246eNYijesyN43Rr1Iifi1uZL2NPhg=",
+          "FTABAQEkAgE3AyQUARgmBIAigScmBYAlTTo3BiQUARgkBwEkCAEwCUEEsPZhnCXAShuOwlPfgB9+fyPUZ4+OR/A5b16y0adwqWt1PsRiPrAICSnyxhTsCfiahPyAAdgMtb68ijJu0gIR0TcKNQEpARgkAmAwBBRNyQpkdCOncagoYBDcPNu/9gX/VDAFFE3JCmR0I6dxqChgENw827/2Bf9UGDALQEp9fxOFzNulX8lck/Grjs7bmsoJOABkX7U0YsQv5izCb+8fbtDH2+alQkNlQdf4yZB5BJURDzuSFntyCsTl2L8Y"
+        ],
+        "0/62/3": 2,
+        "0/62/65528": [
+          1,
+          3,
+          5,
+          8
+        ],
+        "0/62/2": 5,
+        "0/62/65529": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          11
+        ],
+        "0/62/5": 2,
+        "0/62/1": [
+          {
+            "rootPublicKey": "BIk54PhN2Wk8NQ5O+YOb71k+PMB7UzfpY2lhiKTMIU4QgGp41TGjofWZamjAK7wBV3n46dkJQXFk9wY3cp9Fvmc=",
+            "vendorID": 24582,
+            "fabricID": 3776271061567427715,
+            "nodeID": 9970383177079200203,
+            "label": "",
+            "fabricIndex": 1
+          },
+          {
+            "rootPublicKey": "BLD2YZwlwEobjsJT34Affn8j1GePjkfwOW9estGncKlrdT7EYj6wCAkp8sYU7An4moT8gAHYDLW+vIoybtICEdE=",
+            "vendorID": 65521,
+            "fabricID": 1,
+            "nodeID": 2,
+            "label": "",
+            "fabricIndex": 2
+          }
+        ],
+        "0/62/0": [
+          {
+            "noc": "",
+            "icac": null,
+            "fabricIndex": 1
+          },
+          {
+            "noc": "FTABAQEkAgE3AyQTAhgmBIAigScmBYAlTTo3BiQVASQRAhgkBwEkCAEwCUEEarNRtjluFJ+FAXxTFhU+r0qpcAIZnzVQSJTNpw8v7x/E5LvRMcgSYQdJ33MOgKitQRpbiv+7ALjhVuSrOl87TTcKNQEoARgkAgE2AwQCBAEYMAQUVcFldNkd+sHE9cMiUDR98B40qwUwBRTHY48xPIOqQF/hCXsXHiDzRhJihhgwC0CD5uFA9U4M0Scdr9bOJobd0katcWp6g6v+In5wxnLtlGbdH+Xw+fZosYLB4/P+TdhukdODjix7hZknEXEpJRtAGA==",
+            "icac": "FTABAQEkAgE3AyQUARgmBIAigScmBYAlTTo3BiQTAhgkBwEkCAEwCUEE8x+PhfcbYgCg9E3NtJdvYtrF2dNYMY7WC2mGtA4/xr3b8aPwxLcD8jP6YhhvcJBAMATLTaTZnh7dlLeAgvczczcKNQEpARgkAmAwBBTHY48xPIOqQF/hCXsXHiDzRhJihjAFFE3JCmR0I6dxqChgENw827/2Bf9UGDALQO91VSEtpT1Cd7sqQa0Mv0Os14UhkKtJKmFrK52Gpz7Mu3hQuHI3ZI7wdLB2xa3Eq4vwYi/G14DLTOT02j7b7BwY",
+            "fabricIndex": 2
+          }
+        ],
+        "0/62/65532": 0,
+        "0/62/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          0,
+          2,
+          3,
+          1,
+          4,
+          5,
+          65533
+        ],
+        "0/62/65533": 1,
+        "0/63/1": [],
+        "0/63/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533,
+          0,
+          1,
+          2,
+          3
+        ],
+        "0/63/3": 3,
+        "0/63/65529": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "0/63/65528": [
+          2,
+          5
+        ],
+        "0/63/0": [],
+        "0/63/65532": 0,
+        "0/63/65533": 1,
+        "0/63/2": 3
+      },
+      "attribute_subscriptions": [
+        [
+          1,
+          768,
+          8
+        ],
+        [
+          1,
+          6,
+          0
+        ],
+        [
+          1,
+          768,
+          4
+        ],
+        [
+          1,
+          768,
+          1
+        ],
+        [
+          1,
+          768,
+          7
+        ],
+        [
+          1,
+          768,
+          0
+        ],
+        [
+          1,
+          768,
+          3
+        ],
+        [
+          1,
+          8,
+          0
+        ]
+      ]
+    },
+    "3": {
+      "node_id": 3,
+      "date_commissioned": "2023-10-26T16:25:49.379193",
+      "last_interview": "2023-10-26T16:25:49.379199",
+      "interview_version": 4,
+      "available": false,
+      "is_bridge": false,
+      "attributes": {
+        "0/54/9": null,
+        "0/54/65529": [
+          0
+        ],
+        "0/54/2": 3,
+        "0/54/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/54/8": null,
+        "0/54/7": null,
+        "0/54/6": null,
+        "0/54/12": null,
+        "0/54/65533": 1,
+        "0/54/65532": 3,
+        "0/54/5": null,
+        "0/54/65528": [],
+        "0/54/0": null,
+        "0/54/11": null,
+        "0/54/10": null,
+        "0/54/1": null,
+        "0/54/3": null,
+        "0/54/4": null,
+        "0/31/65532": 0,
+        "0/31/0": [
+          {
+            "privilege": 0,
+            "authMode": 0,
+            "subjects": null,
+            "targets": null,
+            "fabricIndex": 1
+          },
+          {
+            "privilege": 5,
+            "authMode": 2,
+            "subjects": [
+              112233
+            ],
+            "targets": null,
+            "fabricIndex": 2
+          }
+        ],
+        "0/31/65528": [],
+        "0/31/2": 4,
+        "0/31/1": [],
+        "0/31/4": 4,
+        "0/31/65533": 1,
+        "0/31/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/31/65529": [],
+        "0/31/3": 3,
+        "0/52/65528": [],
+        "0/52/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/52/2": 1339792,
+        "0/52/65529": [
+          0
+        ],
+        "0/52/0": [
+          {
+            "id": 54498,
+            "name": "54498",
+            "stackFreeCurrent": null,
+            "stackFreeMinimum": null,
+            "stackSize": null
+          },
+          {
+            "id": 54497,
+            "name": "54497",
+            "stackFreeCurrent": null,
+            "stackFreeMinimum": null,
+            "stackSize": null
+          },
+          {
+            "id": 54496,
+            "name": "54496",
+            "stackFreeCurrent": null,
+            "stackFreeMinimum": null,
+            "stackSize": null
+          },
+          {
+            "id": 54495,
+            "name": "54495",
+            "stackFreeCurrent": null,
+            "stackFreeMinimum": null,
+            "stackSize": null
+          },
+          {
+            "id": 54494,
+            "name": "54494",
+            "stackFreeCurrent": null,
+            "stackFreeMinimum": null,
+            "stackSize": null
+          }
+        ],
+        "0/52/3": 1339792,
+        "0/52/65532": 1,
+        "0/52/1": 339568,
+        "0/52/65533": 1,
+        "0/53/65529": [
+          0
+        ],
+        "0/53/3": null,
+        "0/53/5": null,
+        "0/53/47": 0,
+        "0/53/26": 0,
+        "0/53/20": 0,
+        "0/53/16": 0,
+        "0/53/10": null,
+        "0/53/38": 0,
+        "0/53/54": 0,
+        "0/53/40": 0,
+        "0/53/53": 0,
+        "0/53/61": null,
+        "0/53/29": 0,
+        "0/53/65533": 1,
+        "0/53/39": 0,
+        "0/53/33": 0,
+        "0/53/44": 0,
+        "0/53/34": 0,
+        "0/53/17": 0,
+        "0/53/42": 0,
+        "0/53/50": 0,
+        "0/53/35": 0,
+        "0/53/22": 0,
+        "0/53/28": 0,
+        "0/53/4": null,
+        "0/53/23": 0,
+        "0/53/48": 0,
+        "0/53/13": null,
+        "0/53/65532": 15,
+        "0/53/21": 0,
+        "0/53/43": 0,
+        "0/53/15": 0,
+        "0/53/30": 0,
+        "0/53/6": 0,
+        "0/53/1": null,
+        "0/53/24": 0,
+        "0/53/46": 0,
+        "0/53/51": 0,
+        "0/53/0": null,
+        "0/53/41": 0,
+        "0/53/11": null,
+        "0/53/52": 0,
+        "0/53/55": 0,
+        "0/53/60": null,
+        "0/53/65528": [],
+        "0/53/18": 0,
+        "0/53/19": 0,
+        "0/53/14": 0,
+        "0/53/45": 0,
+        "0/53/2": null,
+        "0/53/37": 0,
+        "0/53/8": [],
+        "0/53/36": 0,
+        "0/53/59": null,
+        "0/53/31": 0,
+        "0/53/57": null,
+        "0/53/27": 0,
+        "0/53/58": null,
+        "0/53/12": null,
+        "0/53/25": 0,
+        "0/53/9": null,
+        "0/53/7": [],
+        "0/53/32": 0,
+        "0/53/62": [],
+        "0/53/49": 0,
+        "0/53/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/53/56": null,
+        "0/50/65529": [
+          0
+        ],
+        "0/50/65533": 1,
+        "0/50/65532": 0,
+        "0/50/65528": [
+          1
+        ],
+        "0/50/65531": [
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/49/7": null,
+        "0/49/65529": [],
+        "0/49/0": 1,
+        "0/49/4": true,
+        "0/49/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/49/65528": [],
+        "0/49/6": null,
+        "0/49/1": [
+          {
+            "networkID": "ZXRoMA==",
+            "connected": true
+          }
+        ],
+        "0/49/2": 0,
+        "0/49/65533": 1,
+        "0/49/5": null,
+        "0/49/3": 0,
+        "0/49/65532": 4,
+        "0/40/6": "XX",
+        "0/40/7": 0,
+        "0/40/9": 1,
+        "0/40/18": "DA20BC35AAB35E46",
+        "0/40/4": 32769,
+        "0/40/14": "",
+        "0/40/5": "",
+        "0/40/65533": 1,
+        "0/40/12": "",
+        "0/40/65528": [],
+        "0/40/13": "",
+        "0/40/0": 17,
+        "0/40/19": {
+          "caseSessionsPerFabric": 3,
+          "subscriptionsPerFabric": 65535
+        },
+        "0/40/10": "1.0",
+        "0/40/65532": 0,
+        "0/40/11": "20200101",
+        "0/40/15": "TEST_SN",
+        "0/40/65529": [],
+        "0/40/2": 65521,
+        "0/40/3": "TEST_PRODUCT",
+        "0/40/1": "TEST_VENDOR",
+        "0/40/16": false,
+        "0/40/8": "TEST_VERSION",
+        "0/40/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/51/0": [
+          {
+            "name": "docker0",
+            "isOperational": false,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "AkKEnNfg",
+            "IPv4Addresses": [
+              "rBEAAQ=="
+            ],
+            "IPv6Addresses": [
+              "/oAAAAAAAAAAQoT//pzX4A=="
+            ],
+            "type": 0
+          },
+          {
+            "name": "eth2",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "SutDsk+N",
+            "IPv4Addresses": [
+              "wKgMNQ=="
+            ],
+            "IPv6Addresses": [
+              "/cCwU0HmQopI60P//rJPjQ==",
+              "/oAAAAAAAABI60P//rJPjQ=="
+            ],
+            "type": 2
+          },
+          {
+            "name": "eth1",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "Ah/AzXBX",
+            "IPv4Addresses": [
+              "wKjJAg=="
+            ],
+            "IPv6Addresses": [
+              "/oAAAAAAAAAAH8D//s1wVw=="
+            ],
+            "type": 2
+          },
+          {
+            "name": "eth0",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "AqOOvEmF",
+            "IPv4Addresses": [
+              "gQrnMw=="
+            ],
+            "IPv6Addresses": [
+              "/oAAAAAAAAAAo47//rxJhQ=="
+            ],
+            "type": 2
+          },
+          {
+            "name": "lo",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "AAAAAAAA",
+            "IPv4Addresses": [
+              "fwAAAQ=="
+            ],
+            "IPv6Addresses": [
+              "AAAAAAAAAAAAAAAAAAAAAQ=="
+            ],
+            "type": 0
+          }
+        ],
+        "0/51/1": 2,
+        "0/51/65533": 1,
+        "0/51/65528": [],
+        "0/51/2": 120,
+        "0/51/7": [],
+        "0/51/65532": 0,
+        "0/51/6": [],
+        "0/51/5": [],
+        "0/51/65529": [
+          0
+        ],
+        "0/51/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/51/8": false,
+        "0/51/3": 0,
+        "0/51/4": 0,
+        "0/44/65531": [
+          0,
+          1,
+          2,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/44/65528": [],
+        "0/44/65533": 1,
+        "0/44/1": 0,
+        "0/44/65529": [],
+        "0/44/65532": 0,
+        "0/44/2": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          7
+        ],
+        "0/44/0": 0,
+        "0/62/4": [
+          "FTABAQEkAgE3AycUIcWC92xmn0EYJgSAqUAsJgWAr9hRNwYnFCHFgvdsZp9BGCQHASQIATAJQQSJOeD4TdlpPDUOTvmDm+9ZPjzAe1M36WNpYYikzCFOEIBqeNUxo6H1mWpowCu8AVd5+OnZCUFxZPcGN3KfRb5nNwo1ASkBGCQCYDAEFPSZ2HVc7vXoT6yRBJ56oY36brO6MAUU9JnYdVzu9ehPrJEEnnqhjfpus7oYMAtAI32lulM8JySwW77jrm4+cH+Df3DTcpXZalYjaIL+FNMUhN8gxFtustHT1246eNYijesyN43Rr1Iifi1uZL2NPhg=",
+          "FTABAQEkAgE3AyQUARgmBIAigScmBYAlTTo3BiQUARgkBwEkCAEwCUEEsPZhnCXAShuOwlPfgB9+fyPUZ4+OR/A5b16y0adwqWt1PsRiPrAICSnyxhTsCfiahPyAAdgMtb68ijJu0gIR0TcKNQEpARgkAmAwBBRNyQpkdCOncagoYBDcPNu/9gX/VDAFFE3JCmR0I6dxqChgENw827/2Bf9UGDALQEp9fxOFzNulX8lck/Grjs7bmsoJOABkX7U0YsQv5izCb+8fbtDH2+alQkNlQdf4yZB5BJURDzuSFntyCsTl2L8Y"
+        ],
+        "0/62/1": [
+          {
+            "rootPublicKey": "BIk54PhN2Wk8NQ5O+YOb71k+PMB7UzfpY2lhiKTMIU4QgGp41TGjofWZamjAK7wBV3n46dkJQXFk9wY3cp9Fvmc=",
+            "vendorID": 24582,
+            "fabricID": 3776271061567427715,
+            "nodeID": 8311628029166195469,
+            "label": "",
+            "fabricIndex": 1
+          },
+          {
+            "rootPublicKey": "BLD2YZwlwEobjsJT34Affn8j1GePjkfwOW9estGncKlrdT7EYj6wCAkp8sYU7An4moT8gAHYDLW+vIoybtICEdE=",
+            "vendorID": 65521,
+            "fabricID": 1,
+            "nodeID": 3,
+            "label": "",
+            "fabricIndex": 2
+          }
+        ],
+        "0/62/65529": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          11
+        ],
+        "0/62/3": 2,
+        "0/62/0": [
+          {
+            "noc": "",
+            "icac": null,
+            "fabricIndex": 1
+          },
+          {
+            "noc": "FTABAQEkAgE3AyQTAhgmBIAigScmBYAlTTo3BiQVASQRAxgkBwEkCAEwCUEEgl31qWPQN5nlQlsGlckpG4Y5AGaJ66OYxPKXkNgqovo+XB5IovQ3mdZ3FyJwItqQAWwfvvQfkiBuJ9GyCsGf0jcKNQEoARgkAgE2AwQCBAEYMAQU8c616NzzU5WBGCbbgy9qn7tnQSIwBRTHY48xPIOqQF/hCXsXHiDzRhJihhgwC0DJs3Wt+73Jz9r/kh2ZjZxMpmK56ktlCcdinxGlZyR05+dETVDwdLGU8u+CZ9i7/tVUPZo9viiE6UYjoyV+waLWGA==",
+            "icac": "FTABAQEkAgE3AyQUARgmBIAigScmBYAlTTo3BiQTAhgkBwEkCAEwCUEE8x+PhfcbYgCg9E3NtJdvYtrF2dNYMY7WC2mGtA4/xr3b8aPwxLcD8jP6YhhvcJBAMATLTaTZnh7dlLeAgvczczcKNQEpARgkAmAwBBTHY48xPIOqQF/hCXsXHiDzRhJihjAFFE3JCmR0I6dxqChgENw827/2Bf9UGDALQO91VSEtpT1Cd7sqQa0Mv0Os14UhkKtJKmFrK52Gpz7Mu3hQuHI3ZI7wdLB2xa3Eq4vwYi/G14DLTOT02j7b7BwY",
+            "fabricIndex": 2
+          }
+        ],
+        "0/62/65532": 0,
+        "0/62/65533": 1,
+        "0/62/65528": [
+          1,
+          3,
+          5,
+          8
+        ],
+        "0/62/2": 16,
+        "0/62/5": 2,
+        "0/62/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/29/65532": 0,
+        "0/29/2": [
+          41
+        ],
+        "0/29/65528": [],
+        "0/29/65533": 2,
+        "0/29/3": [
+          1
+        ],
+        "0/29/65529": [],
+        "0/29/1": [
+          29,
+          31,
+          40,
+          42,
+          43,
+          44,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          59,
+          60,
+          62,
+          63,
+          64,
+          65
+        ],
+        "0/29/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/29/0": [
+          {
+            "deviceType": 22,
+            "revision": 1
+          }
+        ],
+        "0/59/0": 2,
+        "0/59/65532": 0,
+        "0/59/65529": [],
+        "0/59/65528": [],
+        "0/59/1": 0,
+        "0/59/65533": 1,
+        "0/59/65531": [
+          0,
+          1,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/64/0": [
+          {
+            "label": "room",
+            "value": "bedroom 2"
+          },
+          {
+            "label": "orientation",
+            "value": "North"
+          },
+          {
+            "label": "floor",
+            "value": "2"
+          },
+          {
+            "label": "direction",
+            "value": "up"
+          }
+        ],
+        "0/64/65529": [],
+        "0/64/65532": 0,
+        "0/64/65528": [],
+        "0/64/65533": 1,
+        "0/64/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/55/4": 0,
+        "0/55/0": null,
+        "0/55/6": 0,
+        "0/55/7": null,
+        "0/55/65532": 3,
+        "0/55/3": 1610,
+        "0/55/2": 1880,
+        "0/55/5": 0,
+        "0/55/1": false,
+        "0/55/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/55/8": 120,
+        "0/55/65533": 1,
+        "0/55/65528": [],
+        "0/55/65529": [
+          0
+        ],
+        "0/63/1": [],
+        "0/63/65532": 0,
+        "0/63/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/63/3": 3,
+        "0/63/65529": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "0/63/2": 4,
+        "0/63/0": [],
+        "0/63/65533": 2,
+        "0/63/65528": [
+          2,
+          5
+        ],
+        "0/48/3": 2,
+        "0/48/65528": [
+          1,
+          3,
+          5
+        ],
+        "0/48/65533": 1,
+        "0/48/1": {
+          "failSafeExpiryLengthSeconds": 60,
+          "maxCumulativeFailsafeSeconds": 900
+        },
+        "0/48/4": true,
+        "0/48/0": 0,
+        "0/48/2": 2,
+        "0/48/65532": 0,
+        "0/48/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/48/65529": [
+          0,
+          2,
+          4
+        ],
+        "0/60/2": null,
+        "0/60/65529": [
+          0,
+          1,
+          2
+        ],
+        "0/60/65533": 1,
+        "0/60/1": null,
+        "0/60/0": 0,
+        "0/60/65532": 0,
+        "0/60/65528": [],
+        "0/60/65531": [
+          0,
+          1,
+          2,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/42/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/42/3": 0,
+        "0/42/65529": [
+          0
+        ],
+        "0/42/2": 0,
+        "0/42/65528": [],
+        "0/42/1": true,
+        "0/42/65532": 0,
+        "0/42/0": [],
+        "0/42/65533": 1,
+        "0/43/65528": [],
+        "0/43/65531": [
+          0,
+          1,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/43/1": [
+          "en-US",
+          "de-DE",
+          "fr-FR",
+          "en-GB",
+          "es-ES",
+          "zh-CN",
+          "it-IT",
+          "ja-JP"
+        ],
+        "0/43/65529": [],
+        "0/43/0": "en-US",
+        "0/43/65533": 1,
+        "0/43/65532": 0,
+        "0/65/65532": 0,
+        "0/65/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/65/65533": 1,
+        "0/65/65528": [],
+        "0/65/0": [],
+        "0/65/65529": [],
+        "1/29/2": [],
+        "1/29/1": [
+          3,
+          4,
+          5,
+          6,
+          8,
+          29,
+          768,
+          1030
+        ],
+        "1/29/0": [
+          {
+            "deviceType": 257,
+            "revision": 1
+          }
+        ],
+        "1/29/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/29/65529": [],
+        "1/29/65532": 0,
+        "1/29/3": [],
+        "1/29/65533": 2,
+        "1/29/65528": [],
+        "1/768/16390": 0,
+        "1/768/3": 24939,
+        "1/768/16400": 0,
+        "1/768/1": 0,
+        "1/768/4": 24701,
+        "1/768/16388": 25,
+        "1/768/16396": 65279,
+        "1/768/16389": 8960,
+        "1/768/15": 0,
+        "1/768/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          64,
+          65,
+          66,
+          67,
+          68,
+          71,
+          75,
+          76
+        ],
+        "1/768/16395": 0,
+        "1/768/65533": 6,
+        "1/768/16394": 31,
+        "1/768/16386": 0,
+        "1/768/16385": 2,
+        "1/768/7": 0,
+        "1/768/65532": 31,
+        "1/768/2": 0,
+        "1/768/0": 0,
+        "1/768/65528": [],
+        "1/768/8": 2,
+        "1/768/16397": 0,
+        "1/768/16387": 0,
+        "1/768/16384": 0,
+        "1/768/16": 0,
+        "1/768/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          7,
+          8,
+          15,
+          16,
+          16384,
+          16385,
+          16386,
+          16387,
+          16388,
+          16389,
+          16390,
+          16394,
+          16395,
+          16396,
+          16397,
+          16400,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/1030/65531": [
+          0,
+          1,
+          2,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/1030/2": 1,
+        "1/1030/65529": [],
+        "1/1030/65533": 3,
+        "1/1030/1": 0,
+        "1/1030/65528": [],
+        "1/1030/65532": 0,
+        "1/1030/0": 0,
+        "1/6/16385": 0,
+        "1/6/65531": [
+          0,
+          16384,
+          16385,
+          16386,
+          16387,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/6/16386": 0,
+        "1/6/65529": [
+          0,
+          1,
+          2,
+          64,
+          65,
+          66
+        ],
+        "1/6/65532": 1,
+        "1/6/16387": null,
+        "1/6/0": false,
+        "1/6/65533": 5,
+        "1/6/65528": [],
+        "1/6/16384": true,
+        "1/8/17": null,
+        "1/8/5": 0,
+        "1/8/16384": null,
+        "1/8/0": 1,
+        "1/8/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          16384,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/8/65528": [],
+        "1/8/3": 254,
+        "1/8/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "1/8/19": 0,
+        "1/8/20": 50,
+        "1/8/6": 0,
+        "1/8/16": 0,
+        "1/8/2": 1,
+        "1/8/1": 0,
+        "1/8/65532": 3,
+        "1/8/4": 0,
+        "1/8/65533": 5,
+        "1/8/18": 0,
+        "1/8/15": 0,
+        "1/4/0": 128,
+        "1/4/65532": 1,
+        "1/4/65533": 4,
+        "1/4/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "1/4/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/4/65528": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "1/3/65531": [
+          0,
+          1,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/3/1": 0,
+        "1/3/0": 0,
+        "1/3/65529": [
+          0,
+          64
+        ],
+        "1/3/65533": 4,
+        "1/3/65528": [],
+        "1/3/65532": 0,
+        "1/5/0": 0,
+        "1/5/2": 0,
+        "1/5/4": 128,
+        "1/5/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/5/1": 0,
+        "1/5/65533": 5,
+        "1/5/5": null,
+        "1/5/3": false,
+        "1/5/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          64,
+          65,
+          66
+        ],
+        "1/5/65532": 1,
+        "1/5/65528": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          6,
+          64,
+          65,
+          66
+        ]
+      },
+      "attribute_subscriptions": [
+        [
+          1,
+          768,
+          8
+        ],
+        [
+          1,
+          6,
+          0
+        ],
+        [
+          1,
+          768,
+          4
+        ],
+        [
+          1,
+          768,
+          1
+        ],
+        [
+          1,
+          768,
+          7
+        ],
+        [
+          1,
+          1030,
+          0
+        ],
+        [
+          1,
+          768,
+          0
+        ],
+        [
+          1,
+          768,
+          3
+        ],
+        [
+          1,
+          8,
+          0
+        ]
+      ]
+    },
+    "4": {
+      "node_id": 4,
+      "date_commissioned": "2023-10-26T18:57:57.615160",
+      "last_interview": "2023-10-26T18:57:57.615165",
+      "interview_version": 4,
+      "available": true,
+      "is_bridge": false,
+      "attributes": {
+        "0/40/15": "510803230100620",
+        "0/40/12": "",
+        "0/40/8": "9.0",
+        "0/40/11": "20200101",
+        "0/40/9": 0,
+        "0/40/10": "9.3.26",
+        "0/40/4": 40961,
+        "0/40/7": 0,
+        "0/40/65532": 0,
+        "0/40/14": "",
+        "0/40/5": "",
+        "0/40/2": 4933,
+        "0/40/1": "Meross",
+        "0/40/18": "838E541A80F4DF83",
+        "0/40/65529": [],
+        "0/40/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/40/65528": [],
+        "0/40/3": "Smart Plug Mini",
+        "0/40/19": {
+          "caseSessionsPerFabric": 3,
+          "subscriptionsPerFabric": 3
+        },
+        "0/40/6": "XX",
+        "0/40/65533": 1,
+        "0/40/16": false,
+        "0/40/13": "",
+        "0/40/0": 1,
+        "0/40/17": true,
+        "0/54/4": -47,
+        "0/54/65529": [
+          0
+        ],
+        "0/54/6": null,
+        "0/54/3": 1,
+        "0/54/7": 0,
+        "0/54/1": 4,
+        "0/54/8": 0,
+        "0/54/65532": 3,
+        "0/54/65528": [],
+        "0/54/2": 3,
+        "0/54/9": 0,
+        "0/54/5": 0,
+        "0/54/65533": 1,
+        "0/54/0": "Am4OEXfy",
+        "0/54/12": 0,
+        "0/54/10": 0,
+        "0/54/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/54/11": 0,
+        "0/31/2": 4,
+        "0/31/0": [
+          {
+            "privilege": 0,
+            "authMode": 0,
+            "subjects": null,
+            "targets": null,
+            "fabricIndex": 1
+          },
+          {
+            "privilege": 5,
+            "authMode": 2,
+            "subjects": [
+              112233
+            ],
+            "targets": null,
+            "fabricIndex": 2
+          }
+        ],
+        "0/31/65528": [],
+        "0/31/65532": 0,
+        "0/31/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/31/3": 3,
+        "0/31/65529": [],
+        "0/31/65533": 1,
+        "0/31/4": 3,
+        "0/31/1": [],
+        "0/51/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/51/4": 0,
+        "0/51/6": [],
+        "0/51/3": 0,
+        "0/51/65533": 1,
+        "0/51/7": [],
+        "0/51/1": 1,
+        "0/51/0": [
+          {
+            "name": "r0",
+            "isOperational": true,
+            "offPremiseServicesReachableIPv4": null,
+            "offPremiseServicesReachableIPv6": null,
+            "hardwareAddress": "SOHptqmq",
+            "IPv4Addresses": [
+              "wKgMjg=="
+            ],
+            "IPv6Addresses": [
+              "/oAAAAAAAABK4en//rapqg=="
+            ],
+            "type": 1
+          }
+        ],
+        "0/51/5": [],
+        "0/51/2": 38,
+        "0/51/65528": [],
+        "0/51/65532": 0,
+        "0/51/65529": [
+          0
+        ],
+        "0/51/8": false,
+        "0/62/1": [
+          {
+            "rootPublicKey": "BIk54PhN2Wk8NQ5O+YOb71k+PMB7UzfpY2lhiKTMIU4QgGp41TGjofWZamjAK7wBV3n46dkJQXFk9wY3cp9Fvmc=",
+            "vendorID": 24582,
+            "fabricID": 3776271061567427715,
+            "nodeID": 1242516142777651075,
+            "label": "",
+            "fabricIndex": 1
+          },
+          {
+            "rootPublicKey": "BLD2YZwlwEobjsJT34Affn8j1GePjkfwOW9estGncKlrdT7EYj6wCAkp8sYU7An4moT8gAHYDLW+vIoybtICEdE=",
+            "vendorID": 65521,
+            "fabricID": 1,
+            "nodeID": 4,
+            "label": "",
+            "fabricIndex": 2
+          }
+        ],
+        "0/62/3": 2,
+        "0/62/5": 2,
+        "0/62/2": 5,
+        "0/62/65533": 1,
+        "0/62/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/62/0": [
+          {
+            "noc": "",
+            "icac": null,
+            "fabricIndex": 1
+          },
+          {
+            "noc": "FTABAQEkAgE3AyQTAhgmBIAigScmBYAlTTo3BiQVASQRBBgkBwEkCAEwCUEEhf9XusnHBLps7grGyj4YcI+Yhu+XB69tdKQGVezDnoBAFa4UB/b+rUYfoumCzgc4zn63mLIiUnw1xl4J2Cm+LzcKNQEoARgkAgE2AwQCBAEYMAQUtDqXqSlesBQE6J4qcPhVZ8cJ5jUwBRTHY48xPIOqQF/hCXsXHiDzRhJihhgwC0BSknSqBgfQ4vTIsI6afq5rKQDFNK2JFUc2C8HLDxSVmRy2nS4rNzfwmMIxnOd7E8ZqiwEoqAl16xjEGwN6g4kLGA==",
+            "icac": "FTABAQEkAgE3AyQUARgmBIAigScmBYAlTTo3BiQTAhgkBwEkCAEwCUEE8x+PhfcbYgCg9E3NtJdvYtrF2dNYMY7WC2mGtA4/xr3b8aPwxLcD8jP6YhhvcJBAMATLTaTZnh7dlLeAgvczczcKNQEpARgkAmAwBBTHY48xPIOqQF/hCXsXHiDzRhJihjAFFE3JCmR0I6dxqChgENw827/2Bf9UGDALQO91VSEtpT1Cd7sqQa0Mv0Os14UhkKtJKmFrK52Gpz7Mu3hQuHI3ZI7wdLB2xa3Eq4vwYi/G14DLTOT02j7b7BwY",
+            "fabricIndex": 2
+          }
+        ],
+        "0/62/65532": 0,
+        "0/62/65528": [
+          1,
+          3,
+          5,
+          8
+        ],
+        "0/62/65529": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          11
+        ],
+        "0/62/4": [
+          "FTABAQEkAgE3AycUIcWC92xmn0EYJgSAqUAsJgWAr9hRNwYnFCHFgvdsZp9BGCQHASQIATAJQQSJOeD4TdlpPDUOTvmDm+9ZPjzAe1M36WNpYYikzCFOEIBqeNUxo6H1mWpowCu8AVd5+OnZCUFxZPcGN3KfRb5nNwo1ASkBGCQCYDAEFPSZ2HVc7vXoT6yRBJ56oY36brO6MAUU9JnYdVzu9ehPrJEEnnqhjfpus7oYMAtAI32lulM8JySwW77jrm4+cH+Df3DTcpXZalYjaIL+FNMUhN8gxFtustHT1246eNYijesyN43Rr1Iifi1uZL2NPhg=",
+          "FTABAQEkAgE3AyQUARgmBIAigScmBYAlTTo3BiQUARgkBwEkCAEwCUEEsPZhnCXAShuOwlPfgB9+fyPUZ4+OR/A5b16y0adwqWt1PsRiPrAICSnyxhTsCfiahPyAAdgMtb68ijJu0gIR0TcKNQEpARgkAmAwBBRNyQpkdCOncagoYBDcPNu/9gX/VDAFFE3JCmR0I6dxqChgENw827/2Bf9UGDALQEp9fxOFzNulX8lck/Grjs7bmsoJOABkX7U0YsQv5izCb+8fbtDH2+alQkNlQdf4yZB5BJURDzuSFntyCsTl2L8Y"
+        ],
+        "0/60/2": null,
+        "0/60/1": null,
+        "0/60/65531": [
+          0,
+          1,
+          2,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/60/0": 0,
+        "0/60/65528": [],
+        "0/60/65532": 0,
+        "0/60/65533": 1,
+        "0/60/65529": [
+          0,
+          1,
+          2
+        ],
+        "0/29/0": [
+          {
+            "deviceType": 22,
+            "revision": 1
+          }
+        ],
+        "0/29/1": [
+          4,
+          29,
+          31,
+          40,
+          48,
+          49,
+          51,
+          54,
+          60,
+          62,
+          63,
+          64,
+          65
+        ],
+        "0/29/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/29/65533": 1,
+        "0/29/3": [
+          1
+        ],
+        "0/29/65529": [],
+        "0/29/65528": [],
+        "0/29/65532": 0,
+        "0/29/2": [],
+        "0/49/5": 0,
+        "0/49/6": "TW9uKElvVClyX01hdHRlcg==",
+        "0/49/2": 10,
+        "0/49/0": 1,
+        "0/49/1": [
+          {
+            "networkID": "TW9uKElvVClyX01hdHRlcg==",
+            "connected": true
+          }
+        ],
+        "0/49/65533": 1,
+        "0/49/3": 20,
+        "0/49/65532": 1,
+        "0/49/7": null,
+        "0/49/4": true,
+        "0/49/65528": [
+          1,
+          5,
+          7
+        ],
+        "0/49/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/49/65529": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ],
+        "0/4/65533": 4,
+        "0/4/0": 128,
+        "0/4/65528": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "0/4/65532": 1,
+        "0/4/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "0/4/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/65/0": [],
+        "0/65/65529": [],
+        "0/65/65532": 0,
+        "0/65/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/65/65528": [],
+        "0/65/65533": 1,
+        "0/64/65532": 0,
+        "0/64/65529": [],
+        "0/64/0": [
+          {
+            "label": "room",
+            "value": "bedroom 2"
+          },
+          {
+            "label": "orientation",
+            "value": "North"
+          },
+          {
+            "label": "floor",
+            "value": "2"
+          },
+          {
+            "label": "direction",
+            "value": "up"
+          }
+        ],
+        "0/64/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/64/65528": [],
+        "0/64/65533": 1,
+        "0/48/65532": 0,
+        "0/48/65529": [
+          0,
+          2,
+          4
+        ],
+        "0/48/4": true,
+        "0/48/1": {
+          "failSafeExpiryLengthSeconds": 60,
+          "maxCumulativeFailsafeSeconds": 900
+        },
+        "0/48/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/48/2": 0,
+        "0/48/3": 0,
+        "0/48/65528": [
+          1,
+          3,
+          5
+        ],
+        "0/48/65533": 1,
+        "0/48/0": 0,
+        "0/63/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "0/63/65533": 1,
+        "0/63/1": [],
+        "0/63/65529": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "0/63/65528": [
+          2,
+          5
+        ],
+        "0/63/3": 3,
+        "0/63/0": [],
+        "0/63/65532": 0,
+        "0/63/2": 3,
+        "1/5/4": 0,
+        "1/5/2": 0,
+        "1/5/1": 0,
+        "1/5/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          64,
+          65,
+          66
+        ],
+        "1/5/3": false,
+        "1/5/65528": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          6,
+          64,
+          65,
+          66
+        ],
+        "1/5/65532": 0,
+        "1/5/65531": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/5/65533": 4,
+        "1/5/0": 0,
+        "1/29/65529": [],
+        "1/29/65532": 0,
+        "1/29/1": [
+          3,
+          4,
+          5,
+          6,
+          29
+        ],
+        "1/29/3": [],
+        "1/29/65531": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/29/65533": 1,
+        "1/29/0": [
+          {
+            "deviceType": 266,
+            "revision": 1
+          }
+        ],
+        "1/29/2": [],
+        "1/29/65528": [],
+        "1/3/0": 0,
+        "1/3/65528": [],
+        "1/3/65532": 0,
+        "1/3/65529": [
+          0
+        ],
+        "1/3/65531": [
+          0,
+          1,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/3/65533": 4,
+        "1/3/1": 2,
+        "1/4/65529": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "1/4/65532": 1,
+        "1/4/65528": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "1/4/65533": 4,
+        "1/4/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/4/0": 128,
+        "1/6/65529": [
+          0,
+          1,
+          2
+        ],
+        "1/6/65531": [
+          0,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "1/6/65528": [],
+        "1/6/65533": 4,
+        "1/6/0": true,
+        "1/6/65532": 0
+      },
+      "attribute_subscriptions": [
+        [
+          1,
+          6,
+          0
+        ]
+      ]
+    }
+  }
+}
