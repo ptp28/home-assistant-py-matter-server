@@ -1,4 +1,4 @@
-FROM python:3.11-slim-bullseye
+FROM python:3.11-bullseye
 
 # Set shell
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
@@ -8,6 +8,10 @@ WORKDIR /app
 RUN \
     set -x \
     && apt-get update \
+    && apt-get install -y openssh-server \
+    && mkdir /var/run/sshd \
+    && echo 'root:matter_server' | chpasswd \
+    && sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config \
     && apt-get install -y --no-install-recommends \
         libuv1 \
         openssl \
@@ -31,6 +35,6 @@ RUN \
     pip3 install --no-cache-dir .[server]
 
 VOLUME ["/data"]
-EXPOSE 5580
+EXPOSE 5580 22
 
 ENTRYPOINT ["./docker-entrypoint.sh"]
