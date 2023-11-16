@@ -12,7 +12,6 @@ docker run -d \
       --name matter-server-mod \
       --restart unless-stopped \
       --network host \
-      -p 2222:22 \
       --security-opt apparmor:unconfined \
       -v /opt/matter-server:/data/ \
       -v /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket \

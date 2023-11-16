@@ -1,4 +1,4 @@
-FROM python:3.11-bullseye
+FROM python:3.11-slim-bullseye
 
 # Set shell
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
@@ -36,6 +36,7 @@ RUN \
     pip3 install --no-cache-dir .[server]
 
 VOLUME ["/data"]
+
 EXPOSE 5580 2222
 
 ENTRYPOINT ["./docker-entrypoint.sh"]
