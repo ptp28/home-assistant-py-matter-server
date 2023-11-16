@@ -12,6 +12,7 @@ RUN \
     && mkdir /var/run/sshd \
     && echo 'root:matter_server' | chpasswd \
     && sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config \
+    && sed -i 's/#Port 22/Port 2222/' /etc/ssh/sshd_config  # Change SSH port to 2222 \
     && apt-get install -y --no-install-recommends \
         libuv1 \
         openssl \
@@ -35,6 +36,6 @@ RUN \
     pip3 install --no-cache-dir .[server]
 
 VOLUME ["/data"]
-EXPOSE 5580 22
+EXPOSE 5580 2222
 
 ENTRYPOINT ["./docker-entrypoint.sh"]
